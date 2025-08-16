@@ -3625,6 +3625,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-08-16 03:33:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-08-16 02:06:40 +0000"
@@ -4467,6 +4473,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-08-16 03:30:05 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2025-08-16 01:55:01 +0000"
@@ -4578,6 +4590,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-08-16 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2025-08-16 03:28:48 +0000"
     },
     "done": true
   },
@@ -5418,6 +5436,12 @@
   "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-08-16 03:28:48 +0000"
     },
     "done": true
   },
@@ -7149,6 +7173,7 @@
       "cooked_mutton": "2025-08-16 01:38:21 +0000",
       "baked_potato": "2025-08-16 02:34:43 +0000",
       "beef": "2025-08-16 02:36:33 +0000",
+      "bread": "2025-08-16 03:28:53 +0000",
       "beetroot": "2025-08-16 02:30:15 +0000",
       "cooked_chicken": "2025-08-16 01:52:39 +0000",
       "carrot": "2025-08-16 03:12:03 +0000"
