@@ -6535,6 +6535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-16 03:19:54 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/stone_bricks_stove": {
     "criteria": {
       "has_stone_bricks": "2025-08-16 02:55:05 +0000"
@@ -6637,6 +6643,12 @@
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/chainmail_backtank": {
+    "criteria": {
+      "has_backtank": "2025-08-16 03:09:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 02:51:11 +0000"
@@ -6691,9 +6703,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-08-16 03:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-08-16 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-08-16 03:18:39 +0000"
     },
     "done": true
   },
@@ -6823,6 +6847,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-08-16 03:09:58 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/building_blocks/cherry_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 02:37:41 +0000"
@@ -6895,6 +6925,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-16 03:18:39 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/life_lantern": {
     "criteria": {
       "has_lantern": "2025-08-16 02:41:12 +0000"
@@ -6925,15 +6961,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-16 03:18:39 +0000"
+    },
+    "done": true
+  },
   "arcanelanterns:recipes/misc/containing_lantern": {
     "criteria": {
       "has_lantern": "2025-08-16 02:41:12 +0000"
     },
     "done": true
   },
+  "candlelight:recipes/potato_crate": {
+    "criteria": {
+      "has_potato": "2025-08-16 03:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 02:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-16 03:19:54 +0000"
     },
     "done": true
   },
@@ -6967,9 +7021,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-16 03:18:39 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/redstone/cherry_lectern": {
     "criteria": {
       "has_book": "2025-08-16 02:37:41 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2025-08-16 03:10:07 +0000"
     },
     "done": true
   },
@@ -7081,6 +7147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-16 03:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-16 02:55:05 +0000"
@@ -7153,9 +7225,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-16 03:22:52 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
     "criteria": {
       "has_helmet": "2025-08-16 02:36:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-16 03:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-16 03:18:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-16 03:10:32 +0000"
     },
     "done": true
   },
