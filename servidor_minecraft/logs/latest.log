@@ -6953,3 +6953,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 05:52:35.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [What Was That Noise?]
 [16Aug2025 05:53:19.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [I Can See Forever]
 [16Aug2025 05:57:18.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Dark Forging]
+[16Aug2025 06:11:12.487] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[16Aug2025 06:13:39.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=6, z=988} BlockPos{x=11, y=6, z=988}
+[16Aug2025 06:13:39.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=6, z=988} BlockPos{x=11, y=6, z=988}
+[16Aug2025 06:25:20.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Fishy Business]
+[16Aug2025 06:27:51.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Ice Bucket Challenge]

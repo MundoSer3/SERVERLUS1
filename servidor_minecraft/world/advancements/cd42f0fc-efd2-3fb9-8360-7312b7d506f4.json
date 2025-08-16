@@ -7543,6 +7543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
@@ -7561,6 +7567,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 06:11:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-08-16 05:25:54 +0000",
@@ -7575,15 +7593,49 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-08-16 04:27:01 +0000"
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_tank": "2025-08-16 06:04:47 +0000",
+      "seared_basin": "2025-08-16 06:09:17 +0000",
+      "seared_table": "2025-08-16 06:10:26 +0000",
+      "seared_faucet": "2025-08-16 06:08:41 +0000",
+      "seared_melter": "2025-08-16 06:13:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },
@@ -7596,6 +7648,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-16 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },
@@ -7647,6 +7705,12 @@
     },
     "done": true
   },
+  "georenouveau:recipes/misc/lapis_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-16 06:11:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
@@ -7695,6 +7759,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-08-16 05:58:17 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tables/book_substitute": {
     "criteria": {
       "has_item": "2025-08-16 05:26:04 +0000"
@@ -7704,6 +7774,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-08-16 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },
@@ -7743,6 +7819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
     "criteria": {
       "has_item": "2025-08-16 05:29:38 +0000"
@@ -7773,6 +7855,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/misc/spruce_chest": {
     "criteria": {
       "has_planks": "2025-08-16 04:27:01 +0000"
@@ -7782,6 +7876,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
     "criteria": {
       "has_item": "2025-08-16 04:54:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-08-16 05:58:17 +0000"
     },
     "done": true
   },
@@ -7851,6 +7951,24 @@
     },
     "done": true
   },
+  "meadow:recipes/window_1": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/window_2": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/window_3": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-16 05:29:38 +0000"
@@ -7878,6 +7996,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-08-16 04:38:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-08-16 05:58:17 +0000"
     },
     "done": true
   },
@@ -7911,6 +8035,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 06:11:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
@@ -7920,6 +8068,18 @@
   "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-08-16 06:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },
@@ -7944,6 +8104,12 @@
   "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
     "criteria": {
       "has_item": "2025-08-16 04:54:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2025-08-16 06:10:17 +0000"
     },
     "done": true
   },
@@ -7974,6 +8140,12 @@
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-16 04:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },
@@ -8043,9 +8215,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-08-16 05:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },
@@ -8070,6 +8260,24 @@
   "tconstruct:recipes/decorations/smeltery/seared/melter": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/seared_glass_pane": {
+    "criteria": {
+      "has_item": "2025-08-16 06:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },
@@ -8139,6 +8347,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-16 04:27:01 +0000"
@@ -8169,15 +8383,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-08-16 04:54:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-16 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 06:11:42 +0000"
     },
     "done": true
   },
@@ -8205,9 +8437,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-08-16 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-16 06:02:00 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-08-16 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 06:11:42 +0000"
     },
     "done": true
   },
@@ -8262,6 +8512,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/chute": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-08-16 06:02:00 +0000"
     },
     "done": true
   },

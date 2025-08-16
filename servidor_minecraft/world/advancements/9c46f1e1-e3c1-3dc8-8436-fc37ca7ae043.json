@@ -6939,9 +6939,11 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-08-16 02:53:20 +0000",
+      "canopy_sapling": "2025-08-16 06:21:00 +0000",
       "twilight_oak_chest": "2025-08-16 04:49:30 +0000",
       "twilight_oak_log": "2025-08-16 02:43:07 +0000",
-      "twilight_oak_sapling": "2025-08-16 05:44:56 +0000"
+      "twilight_oak_sapling": "2025-08-16 05:44:56 +0000",
+      "canopy_log": "2025-08-16 06:21:20 +0000"
     },
     "done": false
   },
@@ -7473,9 +7475,27 @@
     },
     "done": true
   },
+  "lilis_lucky_lures:recipes/uncooked_puffer_plater": {
+    "criteria": {
+      "has_pufferfish": "2025-08-16 06:27:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
     },
     "done": true
   },
@@ -7494,6 +7514,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/puffer_plater": {
+    "criteria": {
+      "has_pufferfish": "2025-08-16 06:27:16 +0000"
     },
     "done": true
   },
@@ -7556,6 +7582,12 @@
   "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chocolate_box": {
+    "criteria": {
+      "has_chest": "2025-08-16 06:08:59 +0000"
     },
     "done": true
   },
@@ -7778,6 +7810,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-08-16 06:21:20 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000",
@@ -7818,6 +7856,12 @@
   "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
     "criteria": {
       "has_item": "2025-08-16 05:17:04 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/uncooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
     },
     "done": true
   },
@@ -7984,9 +8028,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-08-16 05:04:34 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/cooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
     },
     "done": true
   },
@@ -8082,6 +8138,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-08-16 06:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
@@ -8112,6 +8180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
@@ -8121,6 +8195,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-08-16 06:10:29 +0000"
     },
     "done": true
   },
