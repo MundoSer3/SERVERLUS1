@@ -7497,6 +7497,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-08-16 05:52:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-08-16 05:19:13 +0000"
@@ -7662,6 +7668,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
@@ -7742,6 +7754,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:49:30 +0000"
@@ -7788,6 +7806,12 @@
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
     },
     "done": true
   },
@@ -7930,6 +7954,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-16 05:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
@@ -8067,6 +8097,12 @@
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
     },
     "done": true
   },

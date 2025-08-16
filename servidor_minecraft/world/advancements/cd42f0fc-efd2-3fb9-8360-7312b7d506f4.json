@@ -7501,6 +7501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-16 05:55:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
@@ -7755,6 +7761,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-08-16 05:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-08-16 04:52:53 +0000"
@@ -7995,9 +8007,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 05:55:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-16 05:55:07 +0000"
     },
     "done": true
   },
@@ -8016,6 +8040,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-16 05:55:07 +0000"
     },
     "done": true
   },

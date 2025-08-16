@@ -6948,3 +6948,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 05:43:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <si> vamos para la otra mina
 [16Aug2025 05:46:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has reached the goal [Worthy Equipment]
 [16Aug2025 05:46:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [I Found It Underground]
+[16Aug2025 05:50:53.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [I Found It Underground]
+[16Aug2025 05:52:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has reached the goal [Flawless Crystals]
+[16Aug2025 05:52:35.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [What Was That Noise?]
+[16Aug2025 05:53:19.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [I Can See Forever]
+[16Aug2025 05:57:18.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Dark Forging]
