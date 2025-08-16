@@ -4557,8 +4557,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-08-16 04:56:18 +0000",
+      "baked_potato": "2025-08-16 05:47:27 +0000",
       "cooked_cod": "2025-08-16 03:16:48 +0000",
-      "bread": "2025-08-16 03:41:31 +0000"
+      "bread": "2025-08-16 03:41:31 +0000",
+      "cooked_salmon": "2025-08-16 05:44:40 +0000"
     },
     "done": false
   },
@@ -4924,6 +4926,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-16 05:46:35 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/carrot_bag": {
     "criteria": {
       "has_carrot": "2025-08-16 04:45:35 +0000"
@@ -4954,6 +4962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-16 05:33:21 +0000"
@@ -4975,6 +4989,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-16 04:41:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },
@@ -5148,6 +5168,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/highland_bed": {
     "criteria": {
       "has_planks": "2025-08-16 05:28:08 +0000"
@@ -5227,6 +5253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-08-16 05:28:08 +0000"
@@ -5282,6 +5314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
       "has_item": "2025-08-16 04:36:58 +0000"
@@ -5323,6 +5361,12 @@
       "has_white_wool": "2025-08-16 04:53:54 +0000"
     },
     "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_boots": "2025-08-16 05:46:58 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
@@ -5421,6 +5465,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-16 05:46:34 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:41:41 +0000"
@@ -5455,6 +5505,12 @@
     "criteria": {
       "has_boat": "2025-08-16 05:25:35 +0000",
       "has_the_recipe": "2025-08-16 05:25:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },
@@ -5542,6 +5598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-08-16 04:36:58 +0000"
@@ -5606,6 +5668,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-08-16 05:25:10 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/redstone_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },
@@ -5759,6 +5827,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-16 05:28:08 +0000"
@@ -5840,6 +5914,12 @@
   "lilis_lucky_lures:recipes/salmon_rolls": {
     "criteria": {
       "has_salmon": "2025-08-16 04:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },
@@ -6048,6 +6128,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:41:41 +0000"
@@ -6057,6 +6143,12 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },
@@ -6081,6 +6173,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-16 05:46:34 +0000"
     },
     "done": true
   },
@@ -6177,6 +6275,12 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-08-16 04:41:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },
@@ -6283,6 +6387,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 04:45:35 +0000"
@@ -6337,6 +6453,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/decorations/birch_barrel": {
     "criteria": {
       "has_planks": "2025-08-16 04:41:26 +0000"
@@ -6365,6 +6487,12 @@
   "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },
@@ -6464,6 +6592,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-16 05:46:35 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_the_recipe": "2025-08-16 05:25:10 +0000"
@@ -6524,6 +6658,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-08-16 05:41:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2025-08-16 04:36:58 +0000"
@@ -6557,6 +6697,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:41:49 +0000"
     },
     "done": true
   },

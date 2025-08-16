@@ -6944,3 +6944,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 05:39:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si was slain by NatoRWR
 [16Aug2025 05:39:12.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> saoi
 [16Aug2025 05:39:13.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> sapo
+[16Aug2025 05:43:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <si> venga
+[16Aug2025 05:43:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <si> vamos para la otra mina
+[16Aug2025 05:46:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has reached the goal [Worthy Equipment]
+[16Aug2025 05:46:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [I Found It Underground]

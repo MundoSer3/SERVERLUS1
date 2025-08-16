@@ -6940,7 +6940,8 @@
     "criteria": {
       "twilight_oak_planks": "2025-08-16 02:53:20 +0000",
       "twilight_oak_chest": "2025-08-16 04:49:30 +0000",
-      "twilight_oak_log": "2025-08-16 02:43:07 +0000"
+      "twilight_oak_log": "2025-08-16 02:43:07 +0000",
+      "twilight_oak_sapling": "2025-08-16 05:44:56 +0000"
     },
     "done": false
   },
@@ -7769,6 +7770,12 @@
   "georenouveau:recipes/misc/redstone_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-08-16 05:41:31 +0000"
     },
     "done": true
   },
