@@ -6869,3 +6869,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 04:27:44.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: si[/192.168.193.233:60448] logged in with entity id 62042 at (33.69999998807907, 5.0, 1027.94090676475)
 [16Aug2025 04:27:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si joined the game
 [16Aug2025 04:27:44.567] [Server thread/INFO] [Jade/]: Syncing config to si (e8f2992c-5ecd-3ec2-931a-2088003fc32c)
+[16Aug2025 04:29:26.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:49853] logged in with entity id 62644 at (-110.72644761504803, 63.10846099656841, -137.3930142319588)
+[16Aug2025 04:29:26.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[16Aug2025 04:29:26.902] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[16Aug2025 04:36:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 04:38:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 04:38:07.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Best Friends Forever]
+[16Aug2025 04:38:54.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [The Wind Darkening]
+[16Aug2025 04:40:27.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [A Seedy Place]
+[16Aug2025 04:41:22.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 04:42:05.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 04:45:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Lettuce Begin]
+[16Aug2025 04:48:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has reached the goal [Time To Even The Scales]
+[16Aug2025 04:48:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has reached the goal [Time To Even The Scales]
