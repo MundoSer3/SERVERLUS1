@@ -3390,3 +3390,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 23:18:14.299] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
 [16Aug2025 23:18:24.209] [Worker-Main-11/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [16Aug2025 23:18:24.210] [Worker-Main-11/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[16Aug2025 23:20:38.941] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=53, y=-22, z=239}
+[16Aug2025 23:20:38.941] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=59, y=-22, z=239}
+[16Aug2025 23:20:38.942] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-21, z=245}
+[16Aug2025 23:20:38.942] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[16Aug2025 23:20:38.942] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=243}
+[16Aug2025 23:20:38.943] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-21, z=242}
+[16Aug2025 23:20:38.943] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=54, y=-22, z=241}
+[16Aug2025 23:20:38.944] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=241}
+[16Aug2025 23:20:38.944] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[16Aug2025 23:20:38.944] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=57, y=-21, z=245}
+[16Aug2025 23:20:38.944] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[16Aug2025 23:20:38.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=241}
+[16Aug2025 23:20:38.945] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[16Aug2025 23:20:38.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=58, y=-22, z=243}
+[16Aug2025 23:20:38.945] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[16Aug2025 23:20:38.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-22, z=243}
+[16Aug2025 23:20:38.946] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[16Aug2025 23:20:39.125] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[16Aug2025 23:20:39.126] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[16Aug2025 23:20:39.126] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[16Aug2025 23:20:39.127] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[16Aug2025 23:20:39.665] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:20:39.666] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:20:39.667] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:20:39.667] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:20:39.667] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:20:44.692] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[16Aug2025 23:20:44.693] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[16Aug2025 23:20:45.499] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[16Aug2025 23:20:45.612] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[16Aug2025 23:21:14.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Wild Harvest]
+[16Aug2025 23:23:28.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Crops of the Wild]
+[16Aug2025 23:23:29.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-367, y=63, z=-2168} BlockPos{x=-367, y=61, z=-2166}
+[16Aug2025 23:23:30.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-367, y=63, z=-2169} BlockPos{x=-366, y=61, z=-2168}
+[16Aug2025 23:24:22.048] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[16Aug2025 23:25:34.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Lettuce Begin]
+[16Aug2025 23:28:51.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Diamonds!]
+[16Aug2025 23:32:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Blossoming Discoveries]
+[16Aug2025 23:32:30.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[16Aug2025 23:32:30.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[16Aug2025 23:33:42.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[16Aug2025 23:33:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[16Aug2025 23:34:04.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.123:61094] logged in with entity id 13334 at (-532.8571980320975, 64.75271975197224, -1946.2242429948062)
+[16Aug2025 23:34:05.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[16Aug2025 23:34:05.064] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[16Aug2025 23:34:09.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was blown up by Creeper
+[16Aug2025 23:35:08.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.28:53694] logged in with entity id 14120 at (238.11471155509253, 73.0, -466.4177381091883)
+[16Aug2025 23:35:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[16Aug2025 23:35:08.379] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[16Aug2025 23:37:14.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has reached the goal [Skyslime Island]
+[16Aug2025 23:37:22.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! 9.449395427210163,2.799080151033195,1.8156645294546934
+[16Aug2025 23:37:22.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[16Aug2025 23:38:26.867] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:38:26.867] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:38:26.867] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:38:26.867] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:38:26.868] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16Aug2025 23:38:29.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3204ms or 64 ticks behind
+[16Aug2025 23:38:29.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -3785.041791582801,-58.67647087614428,-13743.281073906055
+[16Aug2025 23:38:39.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> [x:-4312, y:4, z:-15691, dim:twilightforest:twilight_forest]
+[16Aug2025 23:47:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Wheels of Destruction]
+[16Aug2025 23:47:51.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Busy Hands]
