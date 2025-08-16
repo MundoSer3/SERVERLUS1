@@ -8021,6 +8021,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-16 07:50:13 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/misc/spruce_chest": {
     "criteria": {
       "has_planks": "2025-08-16 04:27:01 +0000"
@@ -8183,6 +8189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 07:58:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
     "criteria": {
       "has_item": "2025-08-16 05:58:17 +0000"
@@ -8197,6 +8209,7 @@
   },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
+      "broad_axe": "2025-08-16 07:54:48 +0000",
       "sledge_hammer": "2025-08-16 07:28:20 +0000",
       "cleaver": "2025-08-16 07:25:06 +0000"
     },
@@ -8326,6 +8339,8 @@
     "criteria": {
       "large_plate": "2025-08-16 07:08:15 +0000",
       "tough_handle": "2025-08-16 06:52:45 +0000",
+      "broad_axe_head": "2025-08-16 07:49:49 +0000",
+      "pick_head": "2025-08-16 07:49:50 +0000",
       "gem": "2025-08-16 07:32:35 +0000",
       "hammer_head": "2025-08-16 07:25:38 +0000",
       "broad_blade": "2025-08-16 06:52:33 +0000"
@@ -8632,6 +8647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-16 07:50:13 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/rose_gold_ingot_from_block": {
     "criteria": {
       "has_item": "2025-08-16 07:18:49 +0000"
@@ -8827,6 +8848,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-16 06:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-16 07:50:13 +0000"
     },
     "done": true
   },
