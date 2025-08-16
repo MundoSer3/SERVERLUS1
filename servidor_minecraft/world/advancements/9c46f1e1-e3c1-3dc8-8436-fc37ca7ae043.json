@@ -7477,198 +7477,27 @@
     },
     "done": true
   },
-  "candlelight:recipes/cooking_pot": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+      "has_reeds": "2025-08-16 04:30:30 +0000"
     },
     "done": true
   },
-  "lilis_lucky_lures:recipes/uncooked_puffer_plater": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_pufferfish": "2025-08-16 06:27:16 +0000"
+      "has_sugar_cane": "2025-08-16 04:30:30 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_triangle_bricks_stonecutting": {
+  "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
-      "has_bricks": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/redstone/warped_lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/bamboo_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/mozzarella_from_water_bucket": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 07:33:39 +0000",
-      "has_water_bucket": "2025-08-16 07:33:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/mozzarella_from_milk_bucket": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 07:33:39 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/bamboo_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/redstone/spruce_lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-08-16 06:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-08-16 06:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-08-16 07:35:00 +0000",
-      "minecraft:nether_wastes": "2025-08-16 07:37:01 +0000",
-      "minecraft:soul_sand_valley": "2025-08-16 07:34:49 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/typewriter_copper": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+      "has_boat": "2025-08-16 04:36:24 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "lilis_lucky_lures:recipes/puffer_plater": {
-    "criteria": {
-      "has_pufferfish": "2025-08-16 06:27:16 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/mythic_gem": {
-    "criteria": {
-      "gem": "2025-08-16 05:52:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_bass": {
-    "criteria": {
-      "has_bass": "2025-08-16 04:46:19 +0000"
     },
     "done": true
   },
@@ -7679,40 +7508,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-08-16 07:07:12 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000",
       "has_the_recipe": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/butter": {
-    "criteria": {
-      "has_water_bucket": "2025-08-16 07:33:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
@@ -7722,165 +7521,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/common/copper_platform": {
-    "criteria": {
-      "has_bars": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/redstone/jungle_lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/redstone/mangrove_lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-08-16 07:07:12 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/copper_chimes": {
-    "criteria": {
-      "has_wood_slabs": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/chocolate_box": {
-    "criteria": {
-      "has_chest": "2025-08-16 06:08:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-08-16 07:16:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/gold": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cog_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-08-16 07:23:51 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-08-16 07:38:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-16 07:36:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-08-16 05:34:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
     },
     "done": true
   },
@@ -7897,141 +7540,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/mangrove_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "carrot": "2025-08-16 04:43:39 +0000"
-    },
-    "done": false
-  },
-  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/wrench": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "hamsters:recipes/hamster_wheel": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-08-16 04:58:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_naga": "2025-08-16 04:48:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/warped_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
-    "criteria": {
-      "has_item": "2025-08-16 05:50:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-08-16 06:49:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/dark_oak_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
     },
     "done": true
   },
@@ -8041,21 +7552,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
     },
     "done": true
   },
@@ -8066,82 +7565,10 @@
     },
     "done": true
   },
-  "variantvanillablocks:recipes/building_blocks/jungle_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/acacia_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/modifier_worktable": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/spruce_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/yeast": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 07:33:39 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/warped_drawers": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000",
       "has_the_recipe": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/redstone_illuminator": {
-    "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-08-16 04:58:57 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/smeltery/copper_can": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
     },
     "done": true
   },
@@ -8151,274 +7578,10 @@
     },
     "done": true
   },
-  "vinery:recipes/vinemaker_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_gold_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-08-16 07:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-08-16 06:38:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-08-16 04:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
-    "criteria": {
-      "has_item": "2025-08-16 05:50:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/oak_drawers": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-08-16 07:33:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/cherry_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/redstone/bamboo_lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/mangrove_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
-    "criteria": {
-      "has_item": "2025-08-16 05:17:04 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/seared/gauge": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
-    "criteria": {
-      "has_item": "2025-08-16 06:21:20 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/redstone/acacia_lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000",
       "has_the_recipe": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/warped_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/redstone/birch_lectern": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "georenouveau:recipes/misc/redstone_geore_dowsing_rod": {
-    "criteria": {
-      "has_ore": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_the_recipe": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/make_part": {
-    "criteria": {
-      "crafted_part": "2025-08-16 05:41:31 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-08-16 05:17:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "herbalbrews:recipes/copper_tea_kettle": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
-    "criteria": {
-      "has_item": "2025-08-16 05:50:00 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/spruce_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/tool_forge": {
-    "criteria": {
-      "cleaver": "2025-08-16 07:25:15 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/hourglass": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
-    "criteria": {
-      "has_item": "2025-08-16 05:17:04 +0000"
-    },
-    "done": true
-  },
-  "lilis_lucky_lures:recipes/uncooked_cod_meal": {
-    "criteria": {
-      "has_cod": "2025-08-16 06:25:20 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall_stonecutter": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
     },
     "done": true
   },
@@ -8434,21 +7597,150 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/pulse_timer": {
-    "criteria": {
-      "has_item": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000",
+      "has_the_recipe": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000",
+      "has_the_recipe": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000",
+      "has_the_recipe": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
     },
     "done": true
   },
@@ -8470,154 +7762,135 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/crimson_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "entered_nether": "2025-08-16 07:34:48 +0000"
+      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
+      "carrot": "2025-08-16 04:43:39 +0000"
+    },
+    "done": false
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-08-16 04:46:19 +0000"
     },
     "done": true
   },
-  "variantvanillablocks:recipes/redstone/cherry_lectern": {
+  "twilightforest:progress_lich": {
     "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
+      "kill_naga": "2025-08-16 04:48:52 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-08-16 04:48:52 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/smeltery/seared/drain_retextured": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/gold_trapdoor": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
-  "variantvanillablocks:recipes/transportation/jungle_chest_boat": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000",
-      "has_the_recipe": "2025-08-16 04:36:25 +0000"
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
-  "variantvanillablocks:recipes/building_blocks/birch_chiseled_bookshelf": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
-      "has_rabbit": "2025-08-16 07:07:12 +0000"
+      "has_item": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
-  "variantvanillablocks:recipes/redstone/crimson_lectern": {
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/time_chest_boat": {
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
     "criteria": {
-      "has_boat": "2025-08-16 04:36:24 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
-      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "variantvanillablocks:recipes/building_blocks/acacia_bookshelf": {
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-16 07:15:09 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
@@ -8633,99 +7906,9 @@
     },
     "done": true
   },
-  "georenouveau:recipes/misc/copper_geore_dowsing_rod": {
-    "criteria": {
-      "has_ore": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/common/gold_bars": {
-    "criteria": {
-      "has_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/dark_oak_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/coarse_dirt_slab": {
-    "criteria": {
-      "has_coarse_dirt": "2025-08-16 07:01:47 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/building_blocks/birch_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/common/gold_platform": {
-    "criteria": {
-      "has_gold": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2025-08-16 05:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-08-16 04:30:30 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/structure": {
-    "criteria": {
-      "open_smeltery": "2025-08-16 06:42:58 +0000"
     },
     "done": true
   },
@@ -8735,23 +7918,29 @@
     },
     "done": true
   },
-  "variantvanillablocks:recipes/redstone/dark_oak_lectern": {
+  "travelersbackpack:recipes/misc/standard": {
     "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ocelot": {
+  "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
-      "has_cod": "2025-08-16 06:25:20 +0000"
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
-  "candlelight:recipes/chefs_pants": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+      "bred": "2025-08-16 04:58:57 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-08-16 04:58:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
@@ -8759,76 +7948,105 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/transmitter": {
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
+      "has_item": "2025-08-16 05:17:04 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
+      "has_glowstone_dust": "2025-08-16 05:17:04 +0000"
     },
     "done": true
   },
-  "lilis_lucky_lures:recipes/cooked_cod_meal": {
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
     "criteria": {
-      "has_cod": "2025-08-16 06:25:20 +0000"
+      "has_item": "2025-08-16 05:17:04 +0000"
     },
     "done": true
   },
-  "variantvanillablocks:recipes/redstone/lectern": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_the_recipe": "2025-08-16 07:19:10 +0000"
+      "has_glowstone_dust": "2025-08-16 05:17:04 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
+      "has_redstone": "2025-08-16 05:19:13 +0000"
     },
     "done": true
   },
-  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
-      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+      "has_item": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/redstone_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-16 05:19:13 +0000"
     },
     "done": true
   },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/seared/duct": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/seared/fluid_cannon": {
-    "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000",
-      "has_the_recipe": "2025-08-16 04:36:25 +0000"
     },
     "done": true
   },
@@ -8844,76 +8062,9 @@
     },
     "done": true
   },
-  "georenouveau:recipes/misc/gold_geore_dowsing_rod": {
-    "criteria": {
-      "has_ore": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-08-16 07:34:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-08-16 04:30:30 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_chest": "2025-08-16 04:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-08-16 07:01:20 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
-    "criteria": {
-      "has_item": "2025-08-16 06:42:39 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-08-16 05:19:13 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000",
-      "has_the_recipe": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/copper_silo": {
-    "criteria": {
-      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
     },
     "done": true
   },
@@ -8923,27 +8074,81 @@
     },
     "done": true
   },
-  "variantvanillablocks:recipes/transportation/oak_chest_boat": {
+  "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
+      "has_item": "2025-08-16 05:19:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_soul_sand": "2025-08-16 07:38:00 +0000"
+      "has_redstone": "2025-08-16 05:19:13 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+  "minecraft:recipes/misc/raw_gold": {
     "criteria": {
-      "has_item": "2025-08-16 04:49:15 +0000"
+      "has_raw_gold_block": "2025-08-16 05:34:36 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+  "tconstruct:tools/make_part": {
     "criteria": {
-      "has_item": "2025-08-16 06:41:53 +0000"
+      "crafted_part": "2025-08-16 05:41:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-08-16 05:50:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-08-16 05:50:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-08-16 05:52:08 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chocolate_box": {
+    "criteria": {
+      "has_chest": "2025-08-16 06:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-08-16 06:10:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-08-16 06:21:20 +0000"
     },
     "done": true
   },
@@ -8953,27 +8158,441 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/uncooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/cooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-16 06:25:20 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+      "has_cod": "2025-08-16 06:25:20 +0000"
     },
     "done": true
   },
-  "variantvanillablocks:recipes/building_blocks/cherry_bookshelf": {
+  "lilis_lucky_lures:recipes/uncooked_puffer_plater": {
     "criteria": {
-      "has_book": "2025-08-16 07:19:10 +0000"
+      "has_pufferfish": "2025-08-16 06:27:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "lilis_lucky_lures:recipes/puffer_plater": {
     "criteria": {
-      "has_glowstone_dust": "2025-08-16 05:17:04 +0000"
+      "has_pufferfish": "2025-08-16 06:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-16 06:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-16 06:38:50 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cooking_pot": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/typewriter_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/gauge": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/copper_tea_kettle": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/copper_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fluid_cannon": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/copper_silo": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chefs_pants": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/gold_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-16 06:42:18 +0000"
     },
     "done": true
   },
@@ -8989,15 +8608,381 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/modifier_worktable": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
+    "criteria": {
+      "has_item": "2025-08-16 06:42:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-08-16 06:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-16 06:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-08-16 06:49:52 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+  "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
-      "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
+      "has_item": "2025-08-16 06:59:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-16 07:01:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-08-16 07:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 07:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 07:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 07:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-16 07:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-16 07:16:23 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/warped_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bamboo_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/spruce_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/jungle_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/mangrove_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/mangrove_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/dark_oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/acacia_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/cherry_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/bamboo_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/acacia_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/warped_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/birch_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/spruce_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/cherry_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/birch_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/crimson_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/dark_oak_lectern": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/lectern": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-16 07:19:10 +0000"
     },
     "done": true
   },
@@ -9013,45 +8998,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
-    "criteria": {
-      "has_item": "2025-08-16 05:50:00 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-08-16 04:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-08-16 06:25:20 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_door": {
-    "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/building_blocks/crimson_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 07:19:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
+      "obsidian": "2025-08-16 07:22:54 +0000"
     },
     "done": true
   },
@@ -9061,21 +9016,46 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
+  "apotheosis:enchanting/enchanter": {
     "criteria": {
-      "has_item": "2025-08-16 05:19:13 +0000"
+      "enchanting_table": "2025-08-16 07:23:51 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
+  "tconstruct:smeltery/tool_forge": {
     "criteria": {
-      "has_item": "2025-08-16 06:59:35 +0000"
+      "cleaver": "2025-08-16 07:25:15 +0000"
+    },
+    "done": false
+  },
+  "candlelight:recipes/mozzarella_from_water_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:33:39 +0000",
+      "has_water_bucket": "2025-08-16 07:33:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "candlelight:recipes/mozzarella_from_milk_bucket": {
     "criteria": {
-      "has_iron_block": "2025-08-16 06:38:50 +0000"
+      "has_the_recipe": "2025-08-16 07:33:39 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-08-16 07:33:39 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-16 07:33:39 +0000"
     },
     "done": true
   },
@@ -9085,21 +9065,59 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_raw_copper_block": "2025-08-16 06:10:29 +0000"
+      "entered_nether": "2025-08-16 07:34:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+      "entered_nether": "2025-08-16 07:34:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_redstone": "2025-08-16 05:19:13 +0000"
+      "minecraft:crimson_forest": "2025-08-16 07:35:00 +0000",
+      "minecraft:nether_wastes": "2025-08-16 07:37:01 +0000",
+      "minecraft:soul_sand_valley": "2025-08-16 07:34:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-16 07:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-16 07:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-16 07:38:00 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/wooden_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-08-16 07:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-16 07:46:48 +0000"
+    },
+    "done": true
+  },
+  "escalated:recipes/misc/metal_walkway_steps": {
+    "criteria": {
+      "has_chain": "2025-08-16 07:45:12 +0000"
     },
     "done": true
   },

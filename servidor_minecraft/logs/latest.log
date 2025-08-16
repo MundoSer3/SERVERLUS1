@@ -7146,3 +7146,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 07:39:21.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Not Today, Thank You]
 [16Aug2025 07:41:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace hit the ground too hard
 [16Aug2025 07:42:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 07:43:03.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/179898, l='ServerLevel[world]', x=-242.51, y=113.31, z=-1854.55] died, message: 'Unemployed tried to swim in lava'
+[16Aug2025 07:43:08.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/179880, l='ServerLevel[world]', x=-242.88, y=113.76, z=-1855.20] died, message: 'Unemployed tried to swim in lava'
+[16Aug2025 07:43:28.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Far From Perfect]
+[16Aug2025 07:43:28.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Not a Diamond]
+[16Aug2025 07:43:30.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:59425] logged in with entity id 180626 at (-112.26406495308596, 59.0, -268.7354037741054)
+[16Aug2025 07:43:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[16Aug2025 07:43:30.843] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[16Aug2025 07:44:06.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [We Need to Go Deeper]
+[16Aug2025 07:44:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Apothic Affixes]
+[16Aug2025 07:44:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [How'd You Get This?]
+[16Aug2025 07:44:30.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Worthy Equipment]
+[16Aug2025 07:44:30.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Cover Me with Diamonds]
+[16Aug2025 07:44:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [I Found It Underground]
+[16Aug2025 07:44:30.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Suit Up]
+[16Aug2025 07:45:29.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR burned to death
+[16Aug2025 07:45:50.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Teleported NatoRWR to CupcakeSpace]
+[16Aug2025 07:46:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 07:48:10.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Monster Hunter]
+[16Aug2025 07:48:10.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Jim the Unholy'/180732, l='ServerLevel[world]', x=-79.65, y=56.00, z=-337.35] died: Jim the Unholy was slain by CupcakeSpace
+[16Aug2025 07:48:15.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has completed the challenge [He Wasn't So Strong]
+[16Aug2025 07:48:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Not Today, Thank You]
+[16Aug2025 07:50:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Ice Bucket Challenge]
+[16Aug2025 07:51:27.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR tried to swim in lava
+[16Aug2025 07:51:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Teleported NatoRWR to CupcakeSpace]
