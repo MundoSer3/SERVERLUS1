@@ -7626,6 +7626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 07:07:12 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000",
@@ -7660,6 +7666,12 @@
   "tconstruct:recipes/decorations/common/copper_platform": {
     "criteria": {
       "has_bars": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 07:07:12 +0000"
     },
     "done": true
   },
@@ -8298,6 +8310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-16 07:07:12 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
     "criteria": {
       "has_item": "2025-08-16 06:42:39 +0000"
@@ -8367,6 +8385,12 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-08-16 07:01:47 +0000"
     },
     "done": true
   },
@@ -8563,6 +8587,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-16 07:01:20 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
     "criteria": {
       "has_item": "2025-08-16 06:42:39 +0000"
@@ -8699,6 +8729,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-08-16 06:59:35 +0000"
     },
     "done": true
   },

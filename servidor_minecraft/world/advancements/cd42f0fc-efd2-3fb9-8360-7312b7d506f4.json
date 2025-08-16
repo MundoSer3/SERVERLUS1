@@ -7795,6 +7795,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-16 06:59:37 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-08-16 04:27:01 +0000"
@@ -7864,6 +7870,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-08-16 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2025-08-16 07:01:08 +0000"
     },
     "done": true
   },
@@ -8333,6 +8345,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_item": "2025-08-16 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2025-08-16 07:05:35 +0000"
     },
     "done": true
   },

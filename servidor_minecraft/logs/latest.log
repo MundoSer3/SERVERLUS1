@@ -7123,3 +7123,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 06:54:52.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Worthy Equipment]
 [16Aug2025 06:54:52.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Cover Me with Diamonds]
 [16Aug2025 06:59:37.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Hot Stuff]
+[16Aug2025 07:05:10.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Jim'/163892, l='ServerLevel[world]', x=150.98, y=75.00, z=-403.73] died: Jim was slain by Zombified Piglin
+[16Aug2025 07:05:35.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has reached the goal [Encyclopedia]
+[16Aug2025 07:09:32.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Hidden in the Depths]
+[16Aug2025 07:11:01.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: si lost connection: Disconnected
+[16Aug2025 07:11:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si left the game
