@@ -4070,6 +4070,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-16 02:17:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-16 01:59:19 +0000"
@@ -4745,6 +4751,12 @@
   "camping:recipes/tent_white": {
     "criteria": {
       "has_white_wool": "2025-08-16 02:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-16 02:17:57 +0000"
     },
     "done": true
   },

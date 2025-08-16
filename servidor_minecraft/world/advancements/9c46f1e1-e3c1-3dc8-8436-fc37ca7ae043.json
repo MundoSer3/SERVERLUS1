@@ -2496,7 +2496,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dripstone_caves": "2025-08-16 01:52:30 +0000",
-      "minecraft:forest": "2025-08-16 01:22:05 +0000"
+      "minecraft:forest": "2025-08-16 01:22:05 +0000",
+      "minecraft:ocean": "2025-08-16 02:13:13 +0000"
     },
     "done": false
   },
@@ -3184,6 +3185,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-16 02:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-16 01:33:07 +0000"
@@ -3224,7 +3231,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-16 01:46:46 +0000",
       "minecraft:creeper": "2025-08-16 01:54:38 +0000",
-      "minecraft:enderman": "2025-08-16 01:49:31 +0000"
+      "minecraft:enderman": "2025-08-16 01:49:31 +0000",
+      "minecraft:zombie": "2025-08-16 02:18:32 +0000"
     },
     "done": false
   },
@@ -3953,6 +3961,12 @@
   "farm_and_charm:recipes/roaster": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "antlers:jerkeyadvance": {
+    "criteria": {
+      "jerkeyadvance": "2025-08-16 02:18:27 +0000"
     },
     "done": true
   },

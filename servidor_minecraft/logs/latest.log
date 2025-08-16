@@ -6768,3 +6768,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 02:13:37.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by CupcakeSpace
 [16Aug2025 02:14:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
 [16Aug2025 02:16:22.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Teleported NatoRWR to CupcakeSpace]
+[16Aug2025 02:17:51.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Not Today, Thank You]
+[16Aug2025 02:18:15.654] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f8daff8[id=<null>,name=si,properties={},legacy=false] (/192.168.193.233:51731) lost connection: Disconnected
+[16Aug2025 02:18:27.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Jerky?]
+[16Aug2025 02:22:21.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Sweet Dreams]
+[16Aug2025 02:25:13.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Lettuce Begin]
+[16Aug2025 02:25:15.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Alpine Paradise]
+[16Aug2025 02:25:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Fruits of the Field]
+[16Aug2025 02:26:04.610] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
