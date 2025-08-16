@@ -5331,6 +5331,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-08-16 03:39:06 +0000"
+    },
+    "done": true
+  },
   "camping:recipes/small_backpack": {
     "criteria": {
       "has_leather": "2025-08-16 02:26:59 +0000"
@@ -5756,6 +5762,12 @@
       "has_iron_ingot": "2025-08-16 01:45:44 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-08-16 03:39:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -6536,6 +6548,18 @@
       "has_iron_ingot": "2025-08-16 01:45:44 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-08-16 03:39:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "iron": "2025-08-16 03:39:06 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {

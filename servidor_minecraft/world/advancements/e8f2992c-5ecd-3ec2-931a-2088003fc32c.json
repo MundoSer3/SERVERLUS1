@@ -522,6 +522,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "torchberries": "2025-08-16 03:40:24 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -1742,6 +1748,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-08-16 03:37:43 +0000"
+    },
+    "done": true
+  },
   "ars_additions:recipes/misc/crafting/lanterns/sourcestone_lantern": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -2033,6 +2045,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2025-08-16 03:40:59 +0000"
     },
     "done": true
   },
@@ -2712,6 +2730,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-08-16 03:39:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-08-16 03:11:23 +0000"
@@ -2775,6 +2799,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-16 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-08-16 03:40:59 +0000"
     },
     "done": true
   },
@@ -3149,6 +3179,12 @@
       "has_journal": "2025-08-16 02:42:49 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2025-08-16 03:39:20 +0000"
+    },
+    "done": false
   },
   "storagedrawers:recipes/storagedrawers/jungle_trim": {
     "criteria": {
@@ -3846,11 +3882,23 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-08-16 03:39:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_sconce": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "iron": "2025-08-16 03:39:20 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_slab": {
     "criteria": {
@@ -4472,7 +4520,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_cod": "2025-08-16 03:16:48 +0000"
+      "cooked_cod": "2025-08-16 03:16:48 +0000",
+      "bread": "2025-08-16 03:41:31 +0000"
     },
     "done": false
   },
