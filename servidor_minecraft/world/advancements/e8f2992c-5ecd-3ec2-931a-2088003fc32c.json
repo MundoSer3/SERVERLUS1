@@ -2609,7 +2609,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-08-16 02:42:50 +0000"
+      "minecraft:deep_ocean": "2025-08-16 05:16:32 +0000",
+      "minecraft:river": "2025-08-16 05:15:23 +0000",
+      "minecraft:forest": "2025-08-16 02:42:50 +0000",
+      "minecraft:ocean": "2025-08-16 05:16:40 +0000"
     },
     "done": false
   },
@@ -4237,6 +4240,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-08-16 04:36:58 +0000",
+      "twilight_oak_chest": "2025-08-16 05:11:28 +0000",
       "twilight_oak_log": "2025-08-16 03:15:28 +0000",
       "twilight_oak_sapling": "2025-08-16 03:15:45 +0000"
     },
@@ -4589,7 +4593,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-16 03:23:05 +0000",
-      "minecraft:creeper": "2025-08-16 03:29:18 +0000"
+      "minecraft:creeper": "2025-08-16 03:29:18 +0000",
+      "minecraft:zombie": "2025-08-16 04:59:03 +0000"
     },
     "done": false
   },
@@ -4785,9 +4790,33 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-08-16 04:57:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-08-16 05:08:37 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-08-16 04:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-16 05:01:47 +0000"
     },
     "done": true
   },
@@ -4800,6 +4829,18 @@
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-16 05:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:01:47 +0000"
     },
     "done": true
   },
@@ -4929,6 +4970,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-16 04:54:34 +0000"
@@ -4959,6 +5006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-16 05:08:49 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/lamp": {
     "criteria": {
       "has_white_wool": "2025-08-16 04:53:54 +0000"
@@ -4971,6 +5024,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-08-16 04:57:50 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/cherry_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:41:41 +0000"
@@ -4980,6 +5039,18 @@
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-08-16 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
+  "camping:recipes/tent_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-08-16 05:01:47 +0000"
     },
     "done": true
   },
@@ -5044,9 +5115,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-08-16 05:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-16 04:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-16 05:12:34 +0000"
     },
     "done": true
   },
@@ -5122,15 +5205,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-08-16 05:12:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-08-16 04:47:36 +0000"
     },
     "done": true
   },
+  "antlers:jerkeyadvance": {
+    "criteria": {
+      "jerkeyadvance": "2025-08-16 04:58:48 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/birch_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-08-16 04:41:26 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-16 05:08:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-08-16 05:01:47 +0000"
     },
     "done": true
   },
@@ -5176,6 +5283,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-08-16 05:08:49 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/witch_hat": {
     "criteria": {
       "has_white_wool": "2025-08-16 04:53:54 +0000"
@@ -5212,6 +5325,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
@@ -5236,9 +5355,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 04:47:36 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-08-16 05:08:49 +0000"
     },
     "done": true
   },
@@ -5260,6 +5397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-16 05:01:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-08-16 04:36:58 +0000"
@@ -5275,6 +5418,12 @@
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:41:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-08-16 04:57:50 +0000"
     },
     "done": true
   },
@@ -5362,6 +5511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-16 05:08:37 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:41:41 +0000"
@@ -5404,6 +5559,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-08-16 05:12:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2025-08-16 04:36:58 +0000"
@@ -5413,6 +5574,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-16 05:08:49 +0000"
     },
     "done": true
   },
@@ -5440,6 +5607,12 @@
     },
     "done": true
   },
+  "camping:recipes/sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-08-16 05:01:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
@@ -5461,6 +5634,12 @@
   "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-16 05:08:37 +0000"
     },
     "done": true
   },
@@ -5503,6 +5682,12 @@
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:01:47 +0000"
     },
     "done": true
   },
@@ -5554,6 +5739,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:01:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-08-16 05:01:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 05:01:47 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-16 05:08:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
@@ -5563,6 +5772,12 @@
   "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-16 04:59:04 +0000"
     },
     "done": true
   },
@@ -5611,6 +5826,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-08-16 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-16 05:12:33 +0000"
     },
     "done": true
   },

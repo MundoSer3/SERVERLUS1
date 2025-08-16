@@ -2609,6 +2609,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-08-16 04:59:03 +0000",
       "minecraft:birch_forest": "2025-08-16 02:25:38 +0000",
       "minecraft:river": "2025-08-16 04:45:46 +0000",
       "minecraft:stony_shore": "2025-08-16 04:39:34 +0000",
@@ -3686,6 +3687,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-16 05:13:31 +0000",
       "cooked_beef": "2025-08-16 03:54:01 +0000",
       "apple": "2025-08-16 01:34:16 +0000",
       "bread": "2025-08-16 02:29:45 +0000",
@@ -3874,7 +3876,8 @@
       "minecraft:creeper": "2025-08-16 04:24:43 +0000",
       "minecraft:enderman": "2025-08-16 03:33:05 +0000",
       "minecraft:stray": "2025-08-16 03:05:06 +0000",
-      "minecraft:zombie": "2025-08-16 01:50:57 +0000"
+      "minecraft:zombie": "2025-08-16 01:50:57 +0000",
+      "minecraft:zombie_villager": "2025-08-16 05:07:06 +0000"
     },
     "done": false
   },
@@ -7508,6 +7511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:09:44 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-08-16 04:27:01 +0000"
@@ -7604,6 +7613,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:13:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-16 04:27:01 +0000"
@@ -7649,6 +7664,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-16 04:27:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-16 05:13:29 +0000"
     },
     "done": true
   },
@@ -7754,6 +7775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:09:44 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_item": "2025-08-16 04:52:53 +0000"
@@ -7772,6 +7799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-08-16 04:27:01 +0000"
@@ -7784,6 +7817,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 05:09:44 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-08-16 04:54:51 +0000"
@@ -7793,6 +7832,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-16 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-16 05:13:29 +0000"
     },
     "done": true
   },
