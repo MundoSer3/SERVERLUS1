@@ -7499,6 +7499,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/puny_smelting": {
     "criteria": {
       "has_item": "2025-08-16 04:54:51 +0000"
@@ -7520,6 +7532,24 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-08-16 05:09:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
     },
     "done": true
   },
@@ -7546,6 +7576,12 @@
   "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
     },
     "done": true
   },
@@ -7594,6 +7630,12 @@
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-08-16 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
     },
     "done": true
   },
@@ -7663,6 +7705,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-08-16 05:13:29 +0000"
@@ -7675,9 +7723,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/modifier_worktable": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-08-16 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
     },
     "done": true
   },
@@ -7711,6 +7777,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-08-16 04:27:02 +0000"
@@ -7720,6 +7792,12 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-08-16 05:13:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-16 05:29:38 +0000"
     },
     "done": true
   },
@@ -7747,6 +7825,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/part_chest": {
     "criteria": {
       "has_item": "2025-08-16 05:26:04 +0000"
@@ -7756,6 +7840,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
     },
     "done": true
   },
@@ -7783,9 +7873,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
     },
     "done": true
   },
@@ -7807,6 +7921,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/drain_retextured": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-08-16 04:27:01 +0000"
@@ -7816,6 +7936,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-08-16 04:27:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
     },
     "done": true
   },
@@ -7831,6 +7957,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/seared_casting_tank": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_item": "2025-08-16 04:27:01 +0000"
@@ -7840,6 +7978,12 @@
   "candlelight:recipes/spruce_shelf": {
     "criteria": {
       "has_spruce_planks": "2025-08-16 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
     },
     "done": true
   },
@@ -7879,6 +8023,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/loam": {
     "criteria": {
       "has_clay_ball": "2025-08-16 04:54:41 +0000"
@@ -7888,6 +8038,18 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-16 05:09:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
     },
     "done": true
   },
@@ -7906,6 +8068,24 @@
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct_retextured": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:38 +0000"
     },
     "done": true
   },
@@ -7987,6 +8167,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-16 04:27:01 +0000"
@@ -8005,15 +8191,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-16 04:21:32 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/twilightforest/sign_post_twilight_oak": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2025-08-16 05:29:32 +0000"
     },
     "done": true
   },

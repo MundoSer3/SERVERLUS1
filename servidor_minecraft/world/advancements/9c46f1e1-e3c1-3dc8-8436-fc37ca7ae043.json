@@ -7582,6 +7582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-08-16 05:34:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
