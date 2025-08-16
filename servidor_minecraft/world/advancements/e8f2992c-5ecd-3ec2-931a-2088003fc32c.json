@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_repulsion": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_fertility": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -80,6 +92,18 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -233,6 +257,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-08-16 02:42:49 +0000"
@@ -305,6 +335,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -326,6 +362,12 @@
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -485,6 +527,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sanctuary": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -500,6 +548,12 @@
   "ars_additions:recipes/misc/crafting/lanterns/reversed_polished_sourcestone_lantern": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -605,15 +659,33 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -698,6 +770,12 @@
   "ars_elemental:recipes/redstone/advanced_prism": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -791,6 +869,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_0": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -812,6 +896,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -848,6 +938,12 @@
   "ars_additions:recipes/misc/crafting/lanterns/reversed_polished_sourcestone_magelight_lantern": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -911,6 +1007,12 @@
     },
     "done": true
   },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -920,6 +1022,13 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-08-16 02:49:21 +0000",
+      "has_the_recipe": "2025-08-16 02:49:21 +0000"
     },
     "done": true
   },
@@ -941,6 +1050,12 @@
     },
     "done": true
   },
+  "georenouveau:recipes/misc/coal_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-16 02:49:21 +0000"
+    },
+    "done": true
+  },
   "pizzadelight:root": {
     "criteria": {
       "tick": "2025-08-16 02:42:49 +0000"
@@ -956,6 +1071,12 @@
   "ars_nouveau:recipes/misc/magebloom_block": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_coal": "2025-08-16 02:49:21 +0000"
     },
     "done": true
   },
@@ -1115,6 +1236,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -1166,6 +1293,12 @@
   "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -1278,15 +1411,33 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_core": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
     },
     "done": true
   },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -1323,6 +1474,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -1413,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -1449,6 +1612,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-08-16 02:42:49 +0000"
@@ -1467,9 +1642,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_additions:recipes/misc/clear_xp_jar": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-08-16 02:49:21 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -1689,6 +1888,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -1773,9 +1978,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_gem_block": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_coal": "2025-08-16 02:49:21 +0000"
     },
     "done": true
   },
@@ -1839,6 +2056,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/repository": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -1893,6 +2116,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -1902,6 +2131,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -1917,6 +2152,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:main/root": {
     "criteria": {
       "seeds": "2025-08-16 02:42:49 +0000"
@@ -1926,6 +2167,12 @@
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -1959,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/greater_experience_gem": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -1974,6 +2227,12 @@
   "ars_nouveau:recipes/misc/sourceberry_sack_to_bush": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-16 02:49:21 +0000"
     },
     "done": true
   },
@@ -2001,6 +2260,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_trim": {
     "criteria": {
       "has_planks": "2025-08-16 02:42:49 +0000"
@@ -2025,9 +2290,27 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -2121,6 +2404,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/dowsing_rod": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -2142,6 +2431,12 @@
   "ars_nouveau:recipes/misc/sky_block": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -2169,6 +2464,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -2193,6 +2500,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -2214,6 +2527,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -2295,6 +2614,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_additions:recipes/decorations/crafting/stonecutter/sourcestone_button_0": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -2367,6 +2692,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "brewery:main/root": {
     "criteria": {
       "seeds": "2025-08-16 02:42:49 +0000"
@@ -2412,6 +2743,18 @@
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },
@@ -2535,6 +2878,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -2544,6 +2893,12 @@
   "ars_nouveau:recipes/misc/mirrorweave": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-08-16 02:49:08 +0000"
     },
     "done": true
   },
@@ -2565,6 +2920,18 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "candlelight:main/root": {
     "criteria": {
       "seeds": "2025-08-16 02:42:49 +0000"
@@ -2583,6 +2950,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/flight_alt": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
@@ -2598,6 +2971,12 @@
   "ars_additions:recipes/decorations/crafting/stonecutter/polished_sourcestone_wall_0": {
     "criteria": {
       "has_journal": "2025-08-16 02:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-16 02:49:20 +0000"
     },
     "done": true
   },

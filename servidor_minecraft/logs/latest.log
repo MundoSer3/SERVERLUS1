@@ -6804,3 +6804,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 02:42:49.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si joined the game
 [16Aug2025 02:42:49.346] [Server thread/INFO] [Jade/]: Syncing config to si (e8f2992c-5ecd-3ec2-931a-2088003fc32c)
 [16Aug2025 02:43:22.911] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16Aug2025 02:48:37.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=76, z=5}
+[16Aug2025 02:48:37.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=75, z=4}
+[16Aug2025 02:48:42.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=73, z=8}
+[16Aug2025 02:48:42.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=72, z=8}
+[16Aug2025 02:48:42.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=72, z=9}
+[16Aug2025 02:49:08.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Teleported si to CupcakeSpace]
+[16Aug2025 02:50:06.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [I Found It Underground]
+[16Aug2025 02:50:08.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Not a Diamond]
+[16Aug2025 02:50:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Lettuce Begin]
+[16Aug2025 02:50:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 02:52:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 02:55:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Lettuce Begin]
+[16Aug2025 02:56:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has reached the goal [Worthy Equipment]
+[16Aug2025 02:56:51.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has reached the goal [Flawless Crystals]
+[16Aug2025 02:58:18.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Flawless Crystals]
+[16Aug2025 03:01:12.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Monster Hunter]
+[16Aug2025 03:02:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 03:02:21.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 03:05:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Take Aim]
+[16Aug2025 03:05:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [A Throwaway Joke]
+[16Aug2025 03:07:03.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Epic!]
+[16Aug2025 03:07:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [What Was That Noise?]

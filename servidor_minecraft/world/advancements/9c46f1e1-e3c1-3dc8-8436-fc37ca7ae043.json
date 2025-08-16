@@ -2869,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 02:52:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-08-16 02:33:58 +0000"
@@ -2949,6 +2955,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-08-16 02:53:20 +0000",
       "twilight_oak_log": "2025-08-16 02:43:07 +0000"
     },
     "done": false
@@ -3016,6 +3023,12 @@
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2025-08-16 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-08-16 02:55:50 +0000"
     },
     "done": true
   },
@@ -3115,6 +3128,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 01:31:46 +0000"
@@ -3139,11 +3158,23 @@
     },
     "done": true
   },
+  "candlelight:recipes/dough_from_water_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-16 02:26:59 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2025-08-16 03:07:23 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
@@ -3334,7 +3365,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-16 01:46:46 +0000",
+      "minecraft:spider": "2025-08-16 02:56:21 +0000",
       "minecraft:creeper": "2025-08-16 01:54:38 +0000",
+      "minecraft:witch": "2025-08-16 03:07:00 +0000",
       "minecraft:enderman": "2025-08-16 01:49:31 +0000",
       "minecraft:zombie": "2025-08-16 02:18:32 +0000"
     },
@@ -3442,6 +3475,12 @@
     },
     "done": true
   },
+  "lilis_lucky_lures:recipes/fish_net": {
+    "criteria": {
+      "has_slime_ball": "2025-08-16 03:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-08-16 01:50:58 +0000"
@@ -3514,9 +3553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-08-16 01:49:49 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/lapis_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-16 02:52:54 +0000"
     },
     "done": true
   },
@@ -3529,6 +3580,18 @@
   "camping:recipes/tent_brown": {
     "criteria": {
       "has_brown_wool": "2025-08-16 02:31:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-16 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -3671,6 +3734,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/cherry": {
     "criteria": {
       "has_the_recipe": "2025-08-16 01:30:38 +0000"
@@ -3706,6 +3775,12 @@
       "has_white_wool": "2025-08-16 01:32:31 +0000"
     },
     "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_leggings": "2025-08-16 03:02:59 +0000"
+    },
+    "done": false
   },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
@@ -3803,6 +3878,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-08-16 03:06:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-08-16 02:10:39 +0000"
@@ -3848,6 +3935,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-08-16 01:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-16 03:07:00 +0000"
     },
     "done": true
   },
@@ -4374,6 +4467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-16 03:06:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-16 01:47:52 +0000"
@@ -4548,6 +4647,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 01:45:44 +0000"
@@ -4563,6 +4668,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-16 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
     },
     "done": true
   },
@@ -4629,6 +4740,12 @@
   "bakery:recipes/chocolate_box": {
     "criteria": {
       "has_oak_planks": "2025-08-16 01:32:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
     },
     "done": true
   },
@@ -4767,6 +4884,18 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-08-16 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill2": {
+    "criteria": {
+      "redcap": "2025-08-16 03:07:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -4944,6 +5073,12 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-08-16 01:30:38 +0000"
@@ -4965,6 +5100,12 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "bighorn_sheep": "2025-08-16 02:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 02:52:54 +0000"
     },
     "done": true
   },
@@ -5070,9 +5211,21 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_tart": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-08-16 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
     },
     "done": true
   },
@@ -5109,6 +5262,12 @@
   "camping:recipes/small_backpack": {
     "criteria": {
       "has_leather": "2025-08-16 02:26:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -5292,6 +5451,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/dough": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-08-16 01:30:38 +0000"
@@ -5331,6 +5496,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-16 01:47:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-08-16 03:06:10 +0000"
     },
     "done": true
   },
@@ -5469,6 +5640,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-16 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -5706,6 +5883,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-08-16 01:32:31 +0000"
@@ -5754,6 +5937,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-16 01:50:58 +0000"
@@ -5793,6 +5982,12 @@
   "meadow:recipes/wooly_bed": {
     "criteria": {
       "has_oak_planks": "2025-08-16 01:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-16 03:06:10 +0000"
     },
     "done": true
   },
@@ -6180,6 +6375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-16 03:06:10 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/deepslate_stove": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 01:45:44 +0000"
@@ -6189,6 +6390,12 @@
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-08-16 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-16 02:57:56 +0000"
     },
     "done": true
   },
@@ -6225,6 +6432,12 @@
   "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-16 01:32:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -6342,6 +6555,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-16 01:47:52 +0000"
@@ -6435,6 +6654,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-16 01:32:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
     },
     "done": true
   },
@@ -6534,6 +6759,12 @@
     },
     "done": true
   },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 01:32:31 +0000"
@@ -6543,6 +6774,12 @@
   "variantvanillablocks:recipes/decorations/jungle_fletching_table": {
     "criteria": {
       "has_flint": "2025-08-16 01:44:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -6564,6 +6801,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-08-16 03:07:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 02:25:13 +0000"
@@ -6579,6 +6822,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-16 02:35:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 02:52:54 +0000"
     },
     "done": true
   },
@@ -6738,6 +6987,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-16 03:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-08-16 01:47:52 +0000"
@@ -6759,6 +7020,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-16 01:33:07 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -6791,6 +7058,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-16 01:53:55 +0000"
@@ -6809,9 +7082,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-16 02:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-16 01:33:07 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
     },
     "done": true
   },
@@ -6824,6 +7109,12 @@
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-08-16 02:31:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
     },
     "done": true
   },
@@ -6878,6 +7169,18 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2025-08-16 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/twilightforest/sign_post_twilight_oak": {
+    "criteria": {
+      "has_item": "2025-08-16 02:53:20 +0000"
     },
     "done": true
   },
@@ -6938,6 +7241,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-16 03:07:00 +0000"
     },
     "done": true
   },
