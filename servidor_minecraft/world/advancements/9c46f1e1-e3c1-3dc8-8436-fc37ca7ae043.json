@@ -2689,6 +2689,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-16 04:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-16 01:53:55 +0000"
@@ -4245,6 +4251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 04:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-08-16 02:26:59 +0000"
@@ -5127,6 +5139,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 04:20:58 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-08-16 01:32:43 +0000"
@@ -5469,6 +5487,12 @@
     },
     "done": true
   },
+  "lilis_lucky_lures:recipes/salmon_rolls": {
+    "criteria": {
+      "has_salmon": "2025-08-16 04:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 01:45:44 +0000"
@@ -5550,6 +5574,12 @@
   "candlelight:recipes/dough": {
     "criteria": {
       "has_wheat": "2025-08-16 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-16 04:20:58 +0000"
     },
     "done": true
   },
@@ -6390,6 +6420,12 @@
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-08-16 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-16 04:20:58 +0000"
     },
     "done": true
   },

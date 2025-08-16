@@ -6858,3 +6858,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 03:58:28.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=7, z=979} BlockPos{x=0, y=5, z=979}
 [16Aug2025 03:59:11.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
 [16Aug2025 04:06:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Wheels of Destruction]
+[16Aug2025 04:16:02.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.28:55063] logged in with entity id 57262 at (0.7428738722102464, 61.0, -802.6206204057911)
+[16Aug2025 04:16:02.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[16Aug2025 04:16:02.880] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[16Aug2025 04:17:49.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 04:19:32.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 04:22:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss bled to death
+[16Aug2025 04:24:17.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
+[16Aug2025 04:24:17.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[16Aug2025 04:27:44.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: si[/192.168.193.233:60448] logged in with entity id 62042 at (33.69999998807907, 5.0, 1027.94090676475)
+[16Aug2025 04:27:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si joined the game
+[16Aug2025 04:27:44.567] [Server thread/INFO] [Jade/]: Syncing config to si (e8f2992c-5ecd-3ec2-931a-2088003fc32c)
