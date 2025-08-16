@@ -2,9 +2,7 @@
 	id: "f927ae7e-fba2-341b-9c45-47797bdc6c29"
 	type: "player"
 	player_name: "CupcakeSpace"
-	ranks: {
-		f927ae7e-fba2-341b-9c45-47797bdc6c29: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "CupcakeSpace"
 		"ftbteams:description": ""

@@ -2,9 +2,7 @@
 	id: "cd42f0fc-efd2-3fb9-8360-7312b7d506f4"
 	type: "player"
 	player_name: "NergalAbyss"
-	ranks: {
-		cd42f0fc-efd2-3fb9-8360-7312b7d506f4: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "NergalAbyss"
 		"ftbteams:description": ""

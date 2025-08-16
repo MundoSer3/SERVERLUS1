@@ -6740,3 +6740,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 01:45:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Apothic Affixes]
 [16Aug2025 01:45:44.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [How'd You Get This?]
 [16Aug2025 01:46:46.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Monster Hunter]
+[16Aug2025 01:48:42.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@749f315f[id=<null>,name=si,properties={},legacy=false] (/192.168.193.233:51282) lost connection: Disconnected
+[16Aug2025 01:49:08.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.28:54100] logged in with entity id 18776 at (177.15647380924594, 93.0, -15.302799815255504)
+[16Aug2025 01:49:08.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[16Aug2025 01:49:09.029] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[16Aug2025 01:49:23.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6041cfa3[id=<null>,name=si,properties={},legacy=false] (/192.168.193.233:51290) lost connection: Disconnected
+[16Aug2025 01:49:49.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Dark Metallurgy]
+[16Aug2025 01:49:54.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Junior Summoner]
+[16Aug2025 01:50:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Jerky?]
+[16Aug2025 01:53:02.264] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@174fa081[id=<null>,name=si,properties={},legacy=false] (/192.168.193.233:51363) lost connection: Disconnected
+[16Aug2025 01:54:35.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Take Aim]
+[16Aug2025 01:54:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Isn't It Iron Pick]
+[16Aug2025 01:55:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Diamonds!]
+[16Aug2025 01:56:09.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Suit Up]
+[16Aug2025 01:58:35.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74a2a117[id=<null>,name=si,properties={},legacy=false] (/192.168.193.233:51499) lost connection: Disconnected
+[16Aug2025 02:03:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Acquire Hardware]
+[16Aug2025 02:06:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Forbidden Fruit]
+[16Aug2025 02:07:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by CupcakeSpace
+[16Aug2025 02:07:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Diamonds!]
+[16Aug2025 02:07:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Dark Metallurgy]
+[16Aug2025 02:07:24.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [How'd You Get This?]
+[16Aug2025 02:07:30.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41b2de14[id=<null>,name=si,properties={},legacy=false] (/192.168.193.233:51604) lost connection: Disconnected
+[16Aug2025 02:07:38.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Apothic Affixes]
+[16Aug2025 02:07:38.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [How'd You Get This?]
+[16Aug2025 02:07:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Isn't It Iron Pick]
+[16Aug2025 02:12:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 02:13:37.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by CupcakeSpace
+[16Aug2025 02:14:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 02:16:22.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Teleported NatoRWR to CupcakeSpace]
