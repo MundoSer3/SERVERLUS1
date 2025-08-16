@@ -4795,6 +4795,12 @@
     },
     "done": true
   },
+  "lilis_lucky_lures:recipes/uncooked_puffer_plater": {
+    "criteria": {
+      "has_pufferfish": "2025-08-16 06:36:29 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-08-16 04:41:26 +0000"
@@ -4963,6 +4969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:36:24 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/carrot_bag": {
     "criteria": {
       "has_carrot": "2025-08-16 04:45:35 +0000"
@@ -5008,6 +5020,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-16 05:33:21 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/puffer_plater": {
+    "criteria": {
+      "has_pufferfish": "2025-08-16 06:36:29 +0000"
     },
     "done": true
   },
@@ -6087,6 +6105,12 @@
     },
     "done": true
   },
+  "lilis_lucky_lures:recipes/uncooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-08-16 05:12:33 +0000"
@@ -6610,6 +6634,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:36:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 04:45:35 +0000"
@@ -6655,6 +6685,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-08-16 06:11:54 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/cooked_cod_meal": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:36:24 +0000"
     },
     "done": true
   },
@@ -7050,6 +7086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:36:24 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/granite_stove": {
     "criteria": {
       "has_granite": "2025-08-16 06:07:35 +0000"
@@ -7107,6 +7149,12 @@
   "variantvanillablocks:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-16 05:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-16 06:36:24 +0000"
     },
     "done": true
   },
