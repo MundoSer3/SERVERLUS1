@@ -7138,3 +7138,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 07:23:51.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [The Secrets of Enchanting]
 [16Aug2025 07:24:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [The Secrets of Enchanting]
 [16Aug2025 07:28:36.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Hidden in the Depths]
+[16Aug2025 07:33:55.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Teleported NatoRWR to CupcakeSpace]
+[16Aug2025 07:33:57.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/176768, l='ServerLevel[world]', x=-240.80, y=113.77, z=-1855.35] died, message: 'Unemployed tried to swim in lava'
+[16Aug2025 07:34:48.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [We Need to Go Deeper]
+[16Aug2025 07:38:32.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
+[16Aug2025 07:38:32.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[16Aug2025 07:39:21.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Not Today, Thank You]
+[16Aug2025 07:41:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace hit the ground too hard
+[16Aug2025 07:42:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]

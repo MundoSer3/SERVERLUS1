@@ -7507,9 +7507,22 @@
     },
     "done": true
   },
+  "candlelight:recipes/mozzarella_from_water_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:33:39 +0000",
+      "has_water_bucket": "2025-08-16 07:33:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-08-16 06:41:53 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_milk_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:33:39 +0000"
     },
     "done": true
   },
@@ -7560,6 +7573,14 @@
       "has_cod": "2025-08-16 06:25:20 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-16 07:35:00 +0000",
+      "minecraft:nether_wastes": "2025-08-16 07:37:01 +0000",
+      "minecraft:soul_sand_valley": "2025-08-16 07:34:49 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
@@ -7674,6 +7695,12 @@
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-08-16 07:33:39 +0000"
     },
     "done": true
   },
@@ -7797,6 +7824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-16 07:38:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-16 07:19:10 +0000"
@@ -7806,6 +7839,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-08-16 06:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-16 07:36:17 +0000"
     },
     "done": true
   },
@@ -8051,6 +8090,12 @@
     },
     "done": true
   },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:33:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/chute_retextured": {
     "criteria": {
       "has_item": "2025-08-16 06:42:39 +0000"
@@ -8169,6 +8214,12 @@
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-16 07:33:39 +0000"
     },
     "done": true
   },
@@ -8452,6 +8503,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-16 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-16 07:34:48 +0000"
     },
     "done": true
   },
@@ -8799,6 +8856,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-16 07:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-08-16 04:30:30 +0000"
@@ -8863,6 +8926,12 @@
   "variantvanillablocks:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-16 07:38:00 +0000"
     },
     "done": true
   },
@@ -9007,6 +9076,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-16 06:38:50 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella": {
+    "criteria": {
+      "has_water_bucket": "2025-08-16 07:33:39 +0000"
     },
     "done": true
   },
