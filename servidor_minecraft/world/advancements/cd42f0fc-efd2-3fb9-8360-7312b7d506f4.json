@@ -4071,7 +4071,9 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "rock": "2025-08-16 01:52:35 +0000"
+      "rock": "2025-08-16 01:52:35 +0000",
+      "copper": "2025-08-16 07:25:06 +0000",
+      "rose_gold": "2025-08-16 07:25:06 +0000"
     },
     "done": false
   },
@@ -7549,6 +7551,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2025-08-16 07:18:49 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
@@ -7699,6 +7707,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-16 07:24:00 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-08-16 04:27:01 +0000"
@@ -7747,6 +7761,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 07:22:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2025-08-16 07:18:49 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
       "has_item": "2025-08-16 05:25:54 +0000"
@@ -7777,6 +7803,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_paver_smelting": {
+    "criteria": {
+      "has_item": "2025-08-16 07:22:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tables/book_substitute": {
     "criteria": {
       "has_item": "2025-08-16 05:26:04 +0000"
@@ -7786,6 +7818,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-08-16 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab": {
+    "criteria": {
+      "has_item": "2025-08-16 07:22:16 +0000"
     },
     "done": true
   },
@@ -7876,6 +7914,12 @@
   "tconstruct:smeltery/puny_smelting": {
     "criteria": {
       "crafted_book": "2025-08-16 07:01:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-08-16 07:22:16 +0000"
     },
     "done": true
   },
@@ -8035,6 +8079,18 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "cleaver": "2025-08-16 07:25:06 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-08-16 07:22:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
     "criteria": {
       "has_item": "2025-08-16 04:29:00 +0000"
@@ -8050,6 +8106,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_wall_stonecutter": {
     "criteria": {
       "has_item": "2025-08-16 05:29:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2025-08-16 07:18:49 +0000"
     },
     "done": true
   },
@@ -8101,6 +8163,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_overworld": "2025-08-16 07:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-16 06:02:00 +0000"
@@ -8117,6 +8185,7 @@
     "criteria": {
       "large_plate": "2025-08-16 07:08:15 +0000",
       "tough_handle": "2025-08-16 06:52:45 +0000",
+      "hammer_head": "2025-08-16 07:25:38 +0000",
       "broad_blade": "2025-08-16 06:52:33 +0000"
     },
     "done": false
@@ -8124,6 +8193,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-08-16 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_crafting": {
+    "criteria": {
+      "has_item": "2025-08-16 07:22:16 +0000"
     },
     "done": true
   },
@@ -8325,6 +8400,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2025-08-16 07:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-16 05:09:44 +0000"
@@ -8340,6 +8421,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_tinted_glass": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/rose_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-08-16 07:18:49 +0000"
     },
     "done": true
   },
@@ -8562,6 +8649,12 @@
   "tconstruct:recipes/decorations/smeltery/seared/heater": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-08-16 07:20:54 +0000"
     },
     "done": true
   },
