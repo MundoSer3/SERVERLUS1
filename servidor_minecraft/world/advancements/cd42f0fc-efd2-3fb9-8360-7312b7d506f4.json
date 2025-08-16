@@ -8115,6 +8115,7 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
+      "large_plate": "2025-08-16 07:08:15 +0000",
       "tough_handle": "2025-08-16 06:52:45 +0000",
       "broad_blade": "2025-08-16 06:52:33 +0000"
     },
@@ -8534,9 +8535,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-08-16 07:12:04 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/fuel_gauge": {
     "criteria": {
       "has_item": "2025-08-16 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2025-08-16 07:17:08 +0000"
     },
     "done": true
   },

@@ -7128,3 +7128,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 07:09:32.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Hidden in the Depths]
 [16Aug2025 07:11:01.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: si lost connection: Disconnected
 [16Aug2025 07:11:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si left the game
+[16Aug2025 07:17:49.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Marcus'/169270, l='ServerLevel[world]', x=228.78, y=49.00, z=-368.74] died: Marcus bled to death
+[16Aug2025 07:18:37.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 07:19:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 07:21:16.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has reached the goal [Advanced Tool Making]
