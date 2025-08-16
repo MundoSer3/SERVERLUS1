@@ -6939,6 +6939,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-08-16 02:53:20 +0000",
+      "twilight_oak_chest": "2025-08-16 04:49:30 +0000",
       "twilight_oak_log": "2025-08-16 02:43:07 +0000"
     },
     "done": false
@@ -7515,15 +7516,39 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
@@ -7570,6 +7595,30 @@
     },
     "done": false
   },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-08-16 04:48:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
@@ -7607,6 +7656,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000",
@@ -7617,6 +7672,24 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-08-16 04:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
@@ -7681,6 +7754,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-08-16 04:37:14 +0000"
@@ -7712,9 +7791,27 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
@@ -7733,6 +7830,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-16 04:30:30 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
     },
     "done": true
   },
@@ -7761,6 +7870,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-08-16 04:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000",
@@ -7771,6 +7892,12 @@
   "variantvanillablocks:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },
@@ -7789,6 +7916,12 @@
   "variantvanillablocks:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-16 04:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 04:49:15 +0000"
     },
     "done": true
   },

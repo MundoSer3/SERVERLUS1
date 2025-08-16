@@ -6882,3 +6882,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 04:45:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Lettuce Begin]
 [16Aug2025 04:48:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has reached the goal [Time To Even The Scales]
 [16Aug2025 04:48:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has reached the goal [Time To Even The Scales]
+[16Aug2025 04:53:02.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 04:54:34.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Sweet Dreams]
+[16Aug2025 04:56:31.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! 119.10634372479822,56.062720000987056,-758.9730250112729
+[16Aug2025 04:56:32.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Busy Hands]
+[16Aug2025 04:57:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Good Demoman]
+[16Aug2025 04:57:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 04:57:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 04:58:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Jerky?]
+[16Aug2025 04:58:57.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [The Parrots and the Bats]
+[16Aug2025 04:58:59.931] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[16Aug2025 04:58:59.948] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
