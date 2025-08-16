@@ -6667,3 +6667,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 00:54:47.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Forbidden Fruit]
 [16Aug2025 00:55:32.708] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
 [16Aug2025 00:55:32.709] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[16Aug2025 00:58:16.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Sweet Dreams]
+[16Aug2025 00:59:30.601] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16Aug2025 01:01:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Stone Age]
+[16Aug2025 01:01:27.913] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@107e5a4f[id=<null>,name=CupcakeSpace,properties={},legacy=false] (/192.168.193.28:51177) lost connection: Disconnected
+[16Aug2025 01:04:15.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made CupcakeSpace a server operator
+[16Aug2025 01:05:03.309] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[16Aug2025 01:05:12.072] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=8}
+[16Aug2025 01:06:28.254] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cute_companions_ducks:cute_companions_ducks,supplementaries:channel,amendments:channel,williams_hedgehogs:williams_hedgehogs,blueprint:net,antlers:antlers,ars_elemental:main,l2library:main,heartstone:channel,cave_dweller:main,arsdelight:main] rejected their client side version number
+[16Aug2025 01:06:28.254] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Aug2025 01:06:28.262] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a2633db[id=<null>,name=CupcakeSpace,properties={},legacy=false] (/192.168.193.28:51538) lost connection: Connection closed - mismatched mod channel list
+[16Aug2025 01:10:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Wendigo
+[16Aug2025 01:11:25.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was shot by Skeleton
+[16Aug2025 01:17:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Fruits of the Field]
+[16Aug2025 01:18:18.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Creative Mode]
+[16Aug2025 01:18:20.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: You logged in from another location
+[16Aug2025 01:18:20.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[16Aug2025 01:18:20.974] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Aug2025 01:18:20.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:52324] logged in with entity id 8353 at (218.65589577443797, 103.1181568706581, 63.47788386217346)
+[16Aug2025 01:18:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[16Aug2025 01:18:21.215] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[16Aug2025 01:18:51.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: You logged in from another location
+[16Aug2025 01:18:51.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[16Aug2025 01:18:51.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.123:63765] logged in with entity id 8536 at (218.65589577443797, 103.1181568706581, 63.47788386217346)
+[16Aug2025 01:18:51.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[16Aug2025 01:18:51.137] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[16Aug2025 01:19:23.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: You logged in from another location
+[16Aug2025 01:19:23.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[16Aug2025 01:19:23.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:52399] logged in with entity id 8956 at (248.8725708882398, 121.34167960461491, -148.63369073646487)
+[16Aug2025 01:19:23.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[16Aug2025 01:19:23.210] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[16Aug2025 01:20:23.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: You logged in from another location
+[16Aug2025 01:20:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[16Aug2025 01:20:23.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.123:63797] logged in with entity id 9075 at (248.8725708882398, 121.34167960461491, -148.63369073646487)
+[16Aug2025 01:20:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[16Aug2025 01:20:23.646] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[16Aug2025 01:21:00.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Alpine Paradise]
+[16Aug2025 01:22:04.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NatoRWR[/192.168.193.9:56660] logged in with entity id 9795 at (-1.5, 72.0, 5.5)
+[16Aug2025 01:22:04.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR joined the game
+[16Aug2025 01:22:04.944] [Server thread/INFO] [Jade/]: Syncing config to NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043)
+[16Aug2025 01:22:50.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Apothic Affixes]
+[16Aug2025 01:22:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Suit Up]
+[16Aug2025 01:22:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [I Found It Underground]
+[16Aug2025 01:23:00.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: Set own game mode to Survival Mode]
+[16Aug2025 01:24:19.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
+[16Aug2025 01:24:19.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
+[16Aug2025 01:25:01.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.28:52759] logged in with entity id 10613 at (6.5, 79.0, -7.5)
+[16Aug2025 01:25:01.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[16Aug2025 01:25:01.339] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
