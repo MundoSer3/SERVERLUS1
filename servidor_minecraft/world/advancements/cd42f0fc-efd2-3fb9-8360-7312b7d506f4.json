@@ -4076,6 +4076,7 @@
       "rock": "2025-08-16 01:52:35 +0000",
       "copper": "2025-08-16 07:25:06 +0000",
       "rose_gold": "2025-08-16 07:25:06 +0000",
+      "slimesteel": "2025-08-17 01:06:02 +0000",
       "iron": "2025-08-16 07:28:20 +0000"
     },
     "done": false
@@ -8555,6 +8556,7 @@
       "hammer_head": "2025-08-16 07:25:38 +0000",
       "boots_plating": "2025-08-16 23:25:09 +0000",
       "chestplate_plating": "2025-08-16 23:25:32 +0000",
+      "maille": "2025-08-17 01:03:06 +0000",
       "broad_blade": "2025-08-16 06:52:33 +0000"
     },
     "done": false
@@ -9170,6 +9172,55 @@
   "tconstruct:recipes/tools/tools/building/sky_staff": {
     "criteria": {
       "has_wood": "2025-08-16 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_boots": "2025-08-17 01:09:54 +0000",
+      "crafted_chestplate": "2025-08-17 01:06:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-17 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-08-17 01:00:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-08-17 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-08-17 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-17 01:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-17 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-08-17 01:00:41 +0000"
     },
     "done": true
   },

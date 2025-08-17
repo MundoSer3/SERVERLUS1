@@ -5708,6 +5708,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 01:01:54 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/decorations/dark_oak_barrel": {
     "criteria": {
       "has_planks": "2025-08-17 00:17:51 +0000"
@@ -6323,6 +6329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-17 01:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-17 00:23:21 +0000"
@@ -6509,6 +6521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-17 01:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-17 00:24:19 +0000"
@@ -6584,6 +6602,12 @@
   "camping:recipes/sleeping_bag_purple": {
     "criteria": {
       "has_purple_wool": "2025-08-17 00:59:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-08-17 01:02:18 +0000"
     },
     "done": true
   },
@@ -6710,6 +6734,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-08-17 00:57:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-08-17 01:01:45 +0000"
     },
     "done": true
   },
