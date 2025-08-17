@@ -5666,6 +5666,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-17 00:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-08-17 00:59:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-17 00:20:07 +0000"
@@ -5704,6 +5716,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-08-17 00:58:35 +0000",
       "twilight_oak_log": "2025-08-16 23:49:43 +0000",
       "twilight_oak_sapling": "2025-08-16 23:49:43 +0000"
     },
@@ -5745,6 +5758,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
@@ -5760,6 +5779,12 @@
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 00:57:04 +0000"
     },
     "done": true
   },
@@ -5799,6 +5824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-08-17 00:59:47 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/cherry_drawers": {
     "criteria": {
       "has_chest": "2025-08-17 00:14:48 +0000"
@@ -5835,6 +5866,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-08-17 00:57:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-17 00:59:38 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-08-17 00:20:07 +0000"
@@ -5847,6 +5890,12 @@
       "carrot": "2025-08-17 00:28:20 +0000"
     },
     "done": false
+  },
+  "candlelight:recipes/broccoli_crate": {
+    "criteria": {
+      "has_lettuce": "2025-08-17 00:54:20 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
@@ -5872,9 +5921,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-17 00:57:23 +0000"
     },
     "done": true
   },
@@ -5887,6 +5948,12 @@
   "candlelight:recipes/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-17 00:57:04 +0000"
     },
     "done": true
   },
@@ -5967,6 +6034,18 @@
       "has_redstone": "2025-08-17 00:23:21 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-17 00:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-08-17 00:57:23 +0000"
+    },
+    "done": false
   },
   "variantvanillablocks:recipes/misc/dark_oak_crafting_table": {
     "criteria": {
@@ -6070,6 +6149,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2025-08-17 00:10:07 +0000"
@@ -6088,6 +6173,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 00:57:04 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-08-17 00:17:51 +0000"
@@ -6097,6 +6194,12 @@
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-08-17 00:07:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 00:57:04 +0000"
     },
     "done": true
   },
@@ -6115,6 +6218,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
     "criteria": {
       "has_item": "2025-08-16 23:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 00:57:04 +0000"
     },
     "done": true
   },
@@ -6178,6 +6287,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-17 00:57:04 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2025-08-17 00:20:07 +0000"
@@ -6223,6 +6344,12 @@
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-17 00:57:04 +0000"
     },
     "done": true
   },
@@ -6298,9 +6425,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-08-17 00:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-08-17 00:59:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-08-17 00:59:47 +0000"
     },
     "done": true
   },
@@ -6376,11 +6533,23 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-17 00:29:40 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "chicken_soup": "2025-08-17 00:59:38 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
@@ -6394,6 +6563,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-17 00:23:21 +0000"
@@ -6403,6 +6578,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "camping:recipes/sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-08-17 00:59:47 +0000"
     },
     "done": true
   },
@@ -6454,6 +6635,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-08-17 01:00:25 +0000"
+    },
+    "done": true
+  },
   "candlelight:main/place_seeds": {
     "criteria": {
       "lettuce": "2025-08-17 00:31:27 +0000"
@@ -6466,9 +6653,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-08-17 00:58:18 +0000"
+    },
+    "done": true
+  },
+  "camping:recipes/tent_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-08-17 00:59:47 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-08-17 00:31:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/twilightforest/sign_post_twilight_oak": {
+    "criteria": {
+      "has_item": "2025-08-17 00:58:35 +0000"
     },
     "done": true
   },
@@ -6493,6 +6704,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-17 00:57:04 +0000"
     },
     "done": true
   },

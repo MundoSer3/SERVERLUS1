@@ -9005,12 +9005,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
-    "criteria": {
-      "has_item": "2025-08-16 23:37:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-16 23:36:52 +0000"
@@ -9032,12 +9026,6 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-16 23:36:52 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/common/slime/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-08-16 23:37:37 +0000"
     },
     "done": true
   },
@@ -9071,18 +9059,6 @@
     },
     "done": true
   },
-  "tconstruct:world/slime_collector": {
-    "criteria": {
-      "sky": "2025-08-16 23:37:37 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
-    "criteria": {
-      "has_log": "2025-08-16 23:40:34 +0000"
-    },
-    "done": true
-  },
   "candlelight:recipes/birch_shelf": {
     "criteria": {
       "has_birch_planks": "2025-08-16 23:36:52 +0000"
@@ -9107,21 +9083,9 @@
     },
     "done": true
   },
-  "tconstruct:world/sky_island": {
-    "criteria": {
-      "found_island": "2025-08-16 23:37:14 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-08-16 23:36:52 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
-    "criteria": {
-      "has_log": "2025-08-16 23:40:34 +0000"
     },
     "done": true
   },
@@ -9130,6 +9094,48 @@
       "has_planks": "2025-08-16 23:36:52 +0000"
     },
     "done": true
+  },
+  "variantvanillablocks:recipes/decorations/birch_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-16 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-16 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-16 23:36:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-08-16 23:37:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-08-16 23:37:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-16 23:37:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-08-16 23:37:37 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
     "criteria": {
@@ -9143,33 +9149,27 @@
     },
     "done": true
   },
-  "variantvanillablocks:recipes/decorations/birch_barrel": {
-    "criteria": {
-      "has_planks": "2025-08-16 23:36:52 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/tools/building/sky_staff": {
-    "criteria": {
-      "has_wood": "2025-08-16 23:40:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-16 23:36:52 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-16 23:37:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
     "criteria": {
-      "has_planks": "2025-08-16 23:36:52 +0000"
+      "has_log": "2025-08-16 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-08-16 23:40:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/sky_staff": {
+    "criteria": {
+      "has_wood": "2025-08-16 23:40:34 +0000"
     },
     "done": true
   },
