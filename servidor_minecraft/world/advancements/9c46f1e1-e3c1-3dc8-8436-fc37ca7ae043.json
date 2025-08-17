@@ -2496,6 +2496,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-08-17 01:32:41 +0000",
+      "minecraft:birch_forest": "2025-08-17 05:45:36 +0000",
       "minecraft:beach": "2025-08-17 01:33:28 +0000",
       "minecraft:river": "2025-08-16 02:27:49 +0000",
       "minecraft:stony_shore": "2025-08-16 04:35:52 +0000",
@@ -5145,6 +5146,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-16 01:46:46 +0000",
       "minecraft:spider": "2025-08-16 02:56:21 +0000",
+      "minecraft:piglin_brute": "2025-08-17 05:49:58 +0000",
       "minecraft:creeper": "2025-08-16 01:54:38 +0000",
       "minecraft:phantom": "2025-08-17 01:47:12 +0000",
       "minecraft:witch": "2025-08-16 03:07:00 +0000",
@@ -6948,7 +6950,8 @@
       "twilight_oak_chest": "2025-08-16 04:49:30 +0000",
       "twilight_oak_log": "2025-08-16 02:43:07 +0000",
       "twilight_oak_sapling": "2025-08-16 05:44:56 +0000",
-      "canopy_log": "2025-08-16 06:21:20 +0000"
+      "canopy_log": "2025-08-16 06:21:20 +0000",
+      "twilight_oak_boat": "2025-08-17 05:41:43 +0000"
     },
     "done": false
   },
@@ -9365,6 +9368,30 @@
       "phantom": "2025-08-17 01:47:12 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-17 05:46:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-17 05:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-17 05:49:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-08-17 05:46:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
