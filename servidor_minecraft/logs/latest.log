@@ -3452,3 +3452,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 23:38:39.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> [x:-4312, y:4, z:-15691, dim:twilightforest:twilight_forest]
 [16Aug2025 23:47:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Wheels of Destruction]
 [16Aug2025 23:47:51.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Busy Hands]
+[16Aug2025 23:53:49.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Aug2025 23:58:41.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[16Aug2025 23:58:41.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game

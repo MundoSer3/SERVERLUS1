@@ -20757,3 +20757,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [16Aug2025 23:47:48.839] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-136, y=6, z=864}
 [16Aug2025 23:47:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Wheels of Destruction]
 [16Aug2025 23:47:51.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Busy Hands]
+[16Aug2025 23:50:38.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 23:50:38.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 23:53:47.152] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-526, y=63, z=-1949}
+[16Aug2025 23:53:49.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Aug2025 23:53:55.109] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4311, y=4, z=-15692}
+[16Aug2025 23:55:40.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Aug2025 23:55:40.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Aug2025 23:58:41.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[16Aug2025 23:58:41.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
