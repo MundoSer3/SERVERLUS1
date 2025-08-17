@@ -17639,3 +17639,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [17Aug2025 05:32:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Hot Stuff]
 [17Aug2025 05:32:45.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Magma Wheel]
 [17Aug2025 05:32:49.095] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-136, y=6, z=864}
+[17Aug2025 05:34:15.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Norman the Honest'/3278, l='ServerLevel[world]', x=-39.70, y=61.00, z=-343.24] died: death.attack.bleeding.player
+[17Aug2025 05:34:39.225] [Server thread/DEBUG] [mixin/]: Mixing OpenEndedPipeInvoker from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe
+[17Aug2025 05:34:39.225] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndedPipeInvoker: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Aug2025 05:34:39.225] [Server thread/DEBUG] [mixin/]: Mixing OpenEndedPipeMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe
+[17Aug2025 05:34:39.225] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndedPipeMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Aug2025 05:34:39.226] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$2(Lnet/minecraftforge/fluids/capability/IFluidHandler;)V to mdc69221$lambda$inject$2$0 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[17Aug2025 05:34:39.226] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$1(Lplus/dragons/createenchantmentindustry/content/contraptions/fluids/experience/ExperienceFluid;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/phys/Vec3;ILnet/minecraft/world/entity/player/Player;)V to mdc69221$lambda$inject$1$1 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[17Aug2025 05:34:39.226] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$inject$0(Lnet/minecraftforge/fluids/capability/IFluidHandler;)V to mdc69221$lambda$inject$0$2 in create_enchantment_industry.mixins.json:OpenEndedPipeMixin
+[17Aug2025 05:34:39.232] [Server thread/DEBUG] [mixin/]: Mixing OpenEndFluidHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe$OpenEndFluidHandler
+[17Aug2025 05:34:39.232] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndFluidHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Aug2025 05:35:23.647] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 05:35:27.297] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-136, y=6, z=864}
+[17Aug2025 05:35:27.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -118.06548355920154,-55.92159999847412,757.8431240736538
+[17Aug2025 05:35:32.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 05:35:32.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 05:35:59.843] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 05:38:47.032] [Server thread/DEBUG] [mixin/]: Mixing FillingBySpoutMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.spout.FillingBySpout
+[17Aug2025 05:38:47.032] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:FillingBySpoutMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Aug2025 05:39:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Tapping the Mantle]
+[17Aug2025 05:39:24.844] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 05:39:25.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 119.96107113966443,56.07840000152588,-758.8230447739938
+[17Aug2025 05:40:05.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Those Were the Days]
+[17Aug2025 05:40:32.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 05:40:32.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 05:40:59.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Hidden in the Depths]
+[17Aug2025 05:42:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> holi nato
+[17Aug2025 05:42:45.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ayudame a buscar
+[17Aug2025 05:43:02.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> el libro ese para jorge
+[17Aug2025 05:44:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> hay un hueco ahi
+[17Aug2025 05:44:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ??

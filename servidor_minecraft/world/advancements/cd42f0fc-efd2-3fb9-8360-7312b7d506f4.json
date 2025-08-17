@@ -9179,9 +9179,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "has_brown_wool": "2025-08-17 01:12:35 +0000"
+      "deer": "2025-08-17 01:00:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-08-17 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-08-17 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-08-17 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-17 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-17 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-17 01:04:28 +0000"
     },
     "done": true
   },
@@ -9194,21 +9230,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed": {
+  "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-08-17 01:12:35 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/soap": {
+  "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
-      "has_porkchop": "2025-08-17 01:42:28 +0000"
-    },
-    "done": true
-  },
-  "lilis_lucky_lures:recipes/fish_net": {
-    "criteria": {
-      "has_slime_ball": "2025-08-17 01:45:39 +0000"
+      "has_brown_wool": "2025-08-17 01:12:35 +0000"
     },
     "done": true
   },
@@ -9218,27 +9248,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-08-17 01:01:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-08-17 01:42:28 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-08-17 01:12:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
-      "has_slime_ball": "2025-08-17 01:45:39 +0000"
+      "has_brown_wool": "2025-08-17 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "camping:recipes/sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-08-17 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-08-17 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2025-08-17 01:15:06 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-08-17 01:15:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-08-17 01:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-17 01:42:28 +0000"
     },
     "done": true
   },
@@ -9254,39 +9308,9 @@
     },
     "done": true
   },
-  "herbalbrews:main/find_tea_blossom": {
-    "criteria": {
-      "tea_blossom": "2025-08-17 01:15:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "deer": "2025-08-17 01:00:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-08-17 01:12:35 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-17 01:42:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smelted_venison": {
-    "criteria": {
-      "has_food": "2025-08-17 01:00:41 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
-    "criteria": {
-      "has_item": "2025-08-17 01:45:39 +0000"
     },
     "done": true
   },
@@ -9302,9 +9326,21 @@
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/campfired_venison": {
+  "lilis_lucky_lures:recipes/fish_net": {
     "criteria": {
-      "has_food": "2025-08-17 01:00:41 +0000"
+      "has_slime_ball": "2025-08-17 01:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 01:45:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-08-17 01:45:39 +0000"
     },
     "done": true
   },
@@ -9314,45 +9350,9 @@
     },
     "done": true
   },
-  "camping:recipes/sleeping_bag_brown": {
-    "criteria": {
-      "has_brown_wool": "2025-08-17 01:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-08-17 01:04:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-17 01:45:39 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/vinemaker_boots": {
-    "criteria": {
-      "has_brown_wool": "2025-08-17 01:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-08-17 01:01:13 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/sand_casting": {
-    "criteria": {
-      "crafted_cast": "2025-08-17 01:15:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smoked_venison": {
-    "criteria": {
-      "has_food": "2025-08-17 01:00:41 +0000"
     },
     "done": true
   },

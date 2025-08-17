@@ -7392,6 +7392,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-17 05:33:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-08-17 05:34:28 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-08-17 05:39:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-17 05:24:24 +0000"
@@ -7407,6 +7425,18 @@
   "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-17 05:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-08-17 05:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-17 05:32:42 +0000"
     },
     "done": true
   },
@@ -7428,15 +7458,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-08-17 05:33:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-17 05:24:24 +0000"
     },
     "done": true
   },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-08-17 05:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-08-17 05:25:52 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-08-17 05:39:04 +0000"
     },
     "done": true
   },
@@ -7473,6 +7521,12 @@
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-17 05:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-08-17 05:39:04 +0000"
     },
     "done": true
   },
@@ -7524,9 +7578,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-08-17 05:34:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-17 05:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-17 05:40:05 +0000"
     },
     "done": true
   },

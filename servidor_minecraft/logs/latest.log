@@ -3363,3 +3363,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [17Aug2025 05:30:52.554] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
 [17Aug2025 05:32:42.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Hot Stuff]
 [17Aug2025 05:32:45.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Magma Wheel]
+[17Aug2025 05:34:15.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Norman the Honest'/3278, l='ServerLevel[world]', x=-39.70, y=61.00, z=-343.24] died: death.attack.bleeding.player
+[17Aug2025 05:35:27.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -118.06548355920154,-55.92159999847412,757.8431240736538
+[17Aug2025 05:39:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has reached the goal [Tapping the Mantle]
+[17Aug2025 05:39:25.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 119.96107113966443,56.07840000152588,-758.8230447739938
+[17Aug2025 05:40:05.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Those Were the Days]
+[17Aug2025 05:40:59.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Hidden in the Depths]
+[17Aug2025 05:42:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> holi nato
+[17Aug2025 05:42:45.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ayudame a buscar
+[17Aug2025 05:43:02.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> el libro ese para jorge
+[17Aug2025 05:44:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> hay un hueco ahi
+[17Aug2025 05:44:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ??
