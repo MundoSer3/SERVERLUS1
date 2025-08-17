@@ -7436,8 +7436,10 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "cobalt": "2025-08-17 01:24:59 +0000",
       "copper": "2025-08-16 07:25:15 +0000",
       "rose_gold": "2025-08-16 07:25:15 +0000",
+      "slimesteel": "2025-08-17 01:19:58 +0000",
       "iron": "2025-08-16 03:39:06 +0000"
     },
     "done": false
@@ -7789,6 +7791,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "wheat": "2025-08-17 01:16:26 +0000",
       "carrot": "2025-08-16 04:43:39 +0000"
     },
     "done": false
@@ -9272,9 +9275,42 @@
     },
     "done": true
   },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2025-08-17 01:19:58 +0000",
+      "crafted_boots": "2025-08-17 01:21:43 +0000",
+      "crafted_helmet": "2025-08-17 01:22:44 +0000",
+      "crafted_chestplate": "2025-08-17 01:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-17 01:15:51 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-08-17 01:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-17 01:24:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-08-17 01:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-17 01:16:26 +0000"
     },
     "done": true
   },
