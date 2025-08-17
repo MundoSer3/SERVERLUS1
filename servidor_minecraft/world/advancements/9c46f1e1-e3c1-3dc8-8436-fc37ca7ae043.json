@@ -2506,6 +2506,7 @@
       "minecraft:ocean": "2025-08-16 02:13:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 06:18:51 +0000",
       "minecraft:meadow": "2025-08-17 06:24:25 +0000",
+      "minecraft:savanna": "2025-08-17 06:55:30 +0000",
       "minecraft:plains": "2025-08-16 02:25:41 +0000"
     },
     "done": false
@@ -9651,6 +9652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-17 06:58:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2025-08-17 06:18:13 +0000"
@@ -9702,6 +9709,12 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-08-17 06:13:09 +0000"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-08-17 06:51:36 +0000"
     },
     "done": true
   },
