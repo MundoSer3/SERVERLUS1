@@ -7573,9 +7573,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-17 06:31:05 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2025-08-17 06:06:27 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_ruin_cold": "2025-08-17 06:22:16 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-08-17 06:31:13 +0000"
     },
     "done": true
   },
@@ -7585,15 +7603,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-17 06:31:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-17 06:01:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-17 06:31:05 +0000"
+    },
+    "done": true
+  },
   "meadow:main/find_meadow": {
     "criteria": {
       "meadow": "2025-08-17 06:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-17 06:31:05 +0000"
     },
     "done": true
   },
@@ -7609,9 +7645,21 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-08-17 06:30:46 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-08-17 06:06:27 +0000"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-08-17 06:22:49 +0000"
     },
     "done": true
   },

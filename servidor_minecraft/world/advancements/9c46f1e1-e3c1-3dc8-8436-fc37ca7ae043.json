@@ -2505,6 +2505,7 @@
       "minecraft:forest": "2025-08-16 01:22:05 +0000",
       "minecraft:ocean": "2025-08-16 02:13:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-17 06:18:51 +0000",
+      "minecraft:meadow": "2025-08-17 06:24:25 +0000",
       "minecraft:plains": "2025-08-16 02:25:41 +0000"
     },
     "done": false
@@ -9398,6 +9399,18 @@
     },
     "done": true
   },
+  "arsdelight:recipes/misc/source_berry_crate": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-08-17 06:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:recipes/overweight_golden_apple_block": {
     "criteria": {
       "has_gold_block": "2025-08-17 05:52:07 +0000"
@@ -9407,6 +9420,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-17 05:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
     },
     "done": true
   },
@@ -9422,6 +9441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-17 05:54:06 +0000"
@@ -9431,6 +9456,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-17 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
     },
     "done": true
   },
@@ -9464,6 +9495,18 @@
     },
     "done": true
   },
+  "arsdelight:recipes/misc/bombegrante_crate": {
+    "criteria": {
+      "has_bombegranate_pod": "2025-08-17 06:28:01 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/source_berry_cookie": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-08-17 06:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-08-17 06:14:56 +0000"
@@ -9473,6 +9516,30 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_brick_slab": "2025-08-17 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-08-17 06:21:07 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-08-17 06:21:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-08-17 06:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
     },
     "done": true
   },
@@ -9494,9 +9561,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2025-08-17 06:24:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-08-17 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
     },
     "done": true
   },
@@ -9524,6 +9609,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-17 06:21:07 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/potato_crate": {
+    "criteria": {
+      "has_potato": "2025-08-17 06:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-08-17 06:14:56 +0000"
@@ -9536,9 +9633,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-17 06:21:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
     "criteria": {
       "has_item": "2025-08-17 06:02:48 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/bombegrante_pie": {
+    "criteria": {
+      "has_bombegranate_pod": "2025-08-17 06:28:01 +0000"
     },
     "done": true
   },
@@ -9566,6 +9675,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-08-17 06:24:49 +0000"
+    },
+    "done": true
+  },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2025-08-17 06:19:47 +0000"
@@ -9584,6 +9711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-17 06:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-17 05:54:06 +0000"
@@ -9596,9 +9729,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-08-17 06:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
     },
     "done": true
   },
@@ -9611,6 +9756,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-08-17 05:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-17 06:24:36 +0000"
     },
     "done": true
   },
