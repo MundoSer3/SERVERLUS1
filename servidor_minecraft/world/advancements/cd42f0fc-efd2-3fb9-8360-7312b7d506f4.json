@@ -2611,6 +2611,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-08-16 04:59:03 +0000",
       "minecraft:birch_forest": "2025-08-16 02:25:38 +0000",
+      "minecraft:beach": "2025-08-17 06:03:20 +0000",
       "minecraft:dark_forest": "2025-08-16 23:38:36 +0000",
       "minecraft:river": "2025-08-16 04:45:46 +0000",
       "minecraft:stony_shore": "2025-08-16 04:39:34 +0000",
@@ -9354,6 +9355,49 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-17 01:45:39 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_water_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-08-17 06:04:38 +0000",
+      "has_water_bucket": "2025-08-17 06:04:38 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_milk_bucket": {
+    "criteria": {
+      "has_the_recipe": "2025-08-17 06:04:38 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-08-17 06:04:38 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-08-17 06:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-17 06:04:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-08-17 06:05:52 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella": {
+    "criteria": {
+      "has_water_bucket": "2025-08-17 06:04:38 +0000"
     },
     "done": true
   },

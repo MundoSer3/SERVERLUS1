@@ -3405,3 +3405,77 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [17Aug2025 05:54:03.022] [Server thread/INFO] [Jade/]: Syncing config to si (e8f2992c-5ecd-3ec2-931a-2088003fc32c)
 [17Aug2025 05:54:32.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ptm
 [17Aug2025 05:54:37.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> como salgo de aca sin bloques
+[17Aug2025 05:57:24.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR burned to death
+[17Aug2025 05:57:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> era necesario
+[17Aug2025 05:57:46.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> que como tu perdiste todas tus cosas
+[17Aug2025 05:57:50.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> las tenia que perder yo tambien
+[17Aug2025 05:57:53.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ?????
+[17Aug2025 05:58:16.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was burnt to a crisp whilst fighting Blaze
+[17Aug2025 06:01:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Hot Stuff]
+[17Aug2025 06:01:18.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/11428, l='ServerLevel[world]', x=453.89, y=76.59, z=-217.35] died: Honeyed Archer suffocated in a wall
+[17Aug2025 06:02:26.518] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17Aug2025 06:03:01.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[17Aug2025 06:03:01.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[17Aug2025 06:03:38.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Alpine Paradise]
+[17Aug2025 06:04:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has reached the goal [Skyslime Island]
+[17Aug2025 06:07:24.788] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[17Aug2025 06:07:24.789] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[17Aug2025 06:07:51.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si fell from a high place
+[17Aug2025 06:08:07.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17Aug2025 06:08:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has reached the goal [Earthslime Island]
+[17Aug2025 06:12:38.636] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[17Aug2025 06:12:38.637] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[17Aug2025 06:15:34.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[17Aug2025 06:15:34.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 1.8830254189162474,0.0,10.227926021114854
+[17Aug2025 06:15:34.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 1.9554494734899492,0.0,10.621307791157733
+[17Aug2025 06:15:34.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.027873528063651,0.0,11.014689561200612
+[17Aug2025 06:15:34.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.100297582637353,0.0,11.408071331243491
+[17Aug2025 06:15:34.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.1727216372110547,0.0,11.80145310128637
+[17Aug2025 06:15:34.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.2451456917847565,0.0,12.194834871329249
+[17Aug2025 06:15:34.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.3175697463584584,0.0,12.588216641372128
+[17Aug2025 06:15:34.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: si moved too quickly! 6.909331799154984,2.0,-7.076752877630838
+[17Aug2025 06:15:34.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.38999380093216,0.0,12.981598411415007
+[17Aug2025 06:15:34.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.462417855505862,0.0,13.374980181457886
+[17Aug2025 06:15:34.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.534841910079564,0.0,13.768361951500765
+[17Aug2025 06:15:34.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.6072659646532657,0.0,14.161743721543644
+[17Aug2025 06:15:34.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.6796900192269675,0.0,14.555125491586523
+[17Aug2025 06:15:34.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.7521140738006693,0.0,14.948507261629402
+[17Aug2025 06:15:34.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.824538128374371,0.0,15.341889031672281
+[17Aug2025 06:15:34.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.896962182948073,0.0,15.73527080171516
+[17Aug2025 06:15:34.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 2.9693862375217748,0.0,16.12865257175804
+[17Aug2025 06:15:34.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.0418102920954766,0.0,16.522034341800918
+[17Aug2025 06:15:34.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.1142343466691784,0.0,16.915416111843797
+[17Aug2025 06:15:34.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.1866584012428802,0.0,17.308797881886676
+[17Aug2025 06:15:34.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NatoRWR) moved too quickly! 3.259082455816582,0.0,17.702179651929555
+[17Aug2025 06:16:12.931] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[17Aug2025 06:16:36.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Fruits of the Field]
+[17Aug2025 06:16:53.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -118.04330510601943,-55.57969854367612,757.0433977011573
+[17Aug2025 06:18:03.372] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[17Aug2025 06:18:32.360] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Aug2025 06:19:01.661] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[17Aug2025 06:19:01.662] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[17Aug2025 06:19:01.662] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[17Aug2025 06:19:01.663] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[17Aug2025 06:19:01.663] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[17Aug2025 06:19:01.663] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[17Aug2025 06:19:01.664] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[17Aug2025 06:19:09.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[17Aug2025 06:19:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[17Aug2025 06:19:47.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Safe Haven]
+[17Aug2025 06:20:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Call For Adventure]
+[17Aug2025 06:21:31.810] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=22, z=-242}
+[17Aug2025 06:21:39.239] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17Aug2025 06:22:03.495] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-57, z=3}
+[17Aug2025 06:22:03.496] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-57, z=4}
+[17Aug2025 06:22:03.498] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=3}
+[17Aug2025 06:22:20.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3912ms or 78 ticks behind
+[17Aug2025 06:22:20.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! -5.713127021480318,1.6332381393329314,8.14194588415694
+[17Aug2025 06:22:24.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! -3.391781517601146,2.419999986886978,9.399685869133009
+[17Aug2025 06:22:28.040] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[17Aug2025 06:22:43.155] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17Aug2025 06:22:43.429] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37968, l='ServerLevel[world]', x=-5.50, y=-59.00, z=-2.50] died, message: 'Unemployed suffocated in a wall'
+[17Aug2025 06:22:43.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37969, l='ServerLevel[world]', x=-3.50, y=-59.00, z=-2.50] died, message: 'Unemployed suffocated in a wall'
+[17Aug2025 06:22:49.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Ancient Gateway]
+[17Aug2025 06:22:50.202] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[17Aug2025 06:24:13.786] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-13, y=-59, z=10}
+[17Aug2025 06:24:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Alpine Paradise]

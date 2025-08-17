@@ -4986,7 +4986,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-08-17 06:01:30 +0000",
       "minecraft:skeleton": "2025-08-16 07:48:51 +0000",
+      "minecraft:magma_cube": "2025-08-17 05:51:42 +0000",
       "minecraft:wither_skeleton": "2025-08-16 07:48:10 +0000",
       "minecraft:zombie": "2025-08-17 00:07:25 +0000"
     },
@@ -7488,6 +7490,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-17 05:51:07 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/plow": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 05:47:09 +0000"
@@ -7716,6 +7724,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-17 05:50:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-17 05:24:24 +0000"
@@ -7788,6 +7802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-17 05:50:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 05:47:09 +0000"
@@ -7821,6 +7841,12 @@
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-08-17 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-08-17 05:52:37 +0000"
     },
     "done": true
   },
@@ -8028,6 +8054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-17 05:50:40 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/supply_cart": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 05:47:09 +0000"
@@ -8073,6 +8105,12 @@
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-08-17 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-17 05:50:40 +0000"
     },
     "done": true
   },
@@ -8268,6 +8306,12 @@
     },
     "done": true
   },
+  "ars_extended_glyphs:tablet": {
+    "criteria": {
+      "has_tablet": "2025-08-17 05:50:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-08-17 05:24:24 +0000"
@@ -8325,6 +8369,12 @@
   "candlelight:recipes/mangrove_big_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 05:47:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-08-17 05:50:40 +0000"
     },
     "done": true
   },
