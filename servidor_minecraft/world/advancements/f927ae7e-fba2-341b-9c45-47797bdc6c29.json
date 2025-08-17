@@ -5684,6 +5684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-17 00:24:19 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/compacting_drawers": {
     "criteria": {
       "has_chest": "2025-08-17 00:15:21 +0000"
@@ -5703,9 +5709,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
@@ -5769,6 +5787,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-17 00:20:07 +0000"
@@ -5778,6 +5802,12 @@
   "storagedrawers:recipes/storagedrawers/cherry_drawers": {
     "criteria": {
       "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 00:29:40 +0000"
     },
     "done": true
   },
@@ -5793,6 +5823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-17 00:17:51 +0000"
@@ -5804,6 +5840,13 @@
       "has_birch_planks": "2025-08-17 00:20:07 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-08-17 00:29:43 +0000",
+      "carrot": "2025-08-17 00:28:20 +0000"
+    },
+    "done": false
   },
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
@@ -5820,6 +5863,12 @@
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_item": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
@@ -5853,9 +5902,21 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/food/potato_salad": {
+    "criteria": {
+      "has_potato": "2025-08-17 00:29:40 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-08-17 00:29:40 +0000"
     },
     "done": true
   },
@@ -5880,6 +5941,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
@@ -5931,9 +5998,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-08-17 00:21:25 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-17 00:24:19 +0000"
     },
     "done": true
   },
@@ -5955,9 +6046,21 @@
     },
     "done": true
   },
+  "georenouveau:recipes/misc/redstone_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2025-08-17 00:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-17 00:23:12 +0000"
     },
     "done": true
   },
@@ -5976,6 +6079,18 @@
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-08-17 00:07:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-08-17 00:25:47 +0000"
     },
     "done": true
   },
@@ -6009,6 +6124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-17 00:29:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-08-17 00:17:51 +0000"
@@ -6018,6 +6139,18 @@
   "candlelight:recipes/sandstone_stove": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/potato_crate": {
+    "criteria": {
+      "has_potato": "2025-08-17 00:29:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
@@ -6048,6 +6181,18 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-17 00:29:40 +0000"
     },
     "done": true
   },
@@ -6123,9 +6268,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
@@ -6159,9 +6316,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_arm": {
     "criteria": {
       "0": "2025-08-16 23:47:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-17 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
@@ -6177,9 +6358,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-17 00:29:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/decorations/birch_barrel": {
     "criteria": {
       "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
@@ -6192,6 +6391,12 @@
   "candlelight:recipes/sandstone_kitchen_sink": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-17 00:23:12 +0000"
     },
     "done": true
   },
@@ -6219,6 +6424,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-08-17 00:23:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-08-16 23:37:04 +0000"
@@ -6228,6 +6439,12 @@
   "candlelight:recipes/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
