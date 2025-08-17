@@ -142,3 +142,5 @@
 [17Aug2025 01:51:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR bled to death
 [17Aug2025 01:52:00.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
 [17Aug2025 01:52:00.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[17Aug2025 02:03:08.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR lost connection: Disconnected
+[17Aug2025 02:03:08.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR left the game
