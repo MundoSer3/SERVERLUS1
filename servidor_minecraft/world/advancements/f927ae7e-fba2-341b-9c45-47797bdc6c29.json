@@ -5648,6 +5648,54 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:15:21 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/dark_oak_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_log": "2025-08-16 23:49:43 +0000",
@@ -5655,9 +5703,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-08-17 00:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
     },
     "done": true
   },
@@ -5679,9 +5739,75 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chocolate_box": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/nbtcrafting/goggle_diamond_helmet": {
     "criteria": {
       "has_helmet": "2025-08-17 00:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
     },
     "done": true
   },
@@ -5691,9 +5817,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_crafting_table": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
     },
     "done": true
   },
@@ -5709,9 +5865,33 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_shelf": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/dark_oak_crafting_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:15:21 +0000"
     },
     "done": true
   },
@@ -5730,6 +5910,30 @@
   "antlers:jerkeyadvance": {
     "criteria": {
       "jerkeyadvance": "2025-08-17 00:06:35 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
     },
     "done": true
   },
@@ -5757,6 +5961,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-08-17 00:07:24 +0000"
@@ -5775,9 +5991,27 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "skeleton_druid": "2025-08-17 00:07:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-08-17 00:17:51 +0000"
     },
     "done": true
   },
@@ -5787,15 +6021,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
     },
     "done": true
   },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
     },
     "done": true
   },
@@ -5811,9 +6093,69 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:15:21 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
     },
     "done": true
   },
@@ -5823,9 +6165,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:14:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-08-17 00:01:41 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/birch_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
     },
     "done": true
   },
@@ -5835,15 +6195,39 @@
     },
     "done": true
   },
+  "candlelight:recipes/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 00:20:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-08-17 00:15:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-08-16 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-17 00:17:51 +0000"
     },
     "done": true
   },

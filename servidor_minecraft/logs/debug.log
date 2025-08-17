@@ -20775,3 +20775,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [17Aug2025 00:07:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Boots Are Mine!]
 [17Aug2025 00:10:40.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Aug2025 00:10:40.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 00:10:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: The difficulty has been set to Peaceful]
+[17Aug2025 00:11:18.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CupcakeSpace: The difficulty has been set to Hard]
+[17Aug2025 00:15:40.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 00:15:40.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 00:20:40.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 00:20:40.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
