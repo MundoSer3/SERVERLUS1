@@ -9138,7 +9138,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "sky": "2025-08-16 23:37:37 +0000"
+      "sky": "2025-08-16 23:37:37 +0000",
+      "earth": "2025-08-17 01:45:39 +0000"
     },
     "done": false
   },
@@ -9199,6 +9200,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-08-17 01:42:28 +0000"
+    },
+    "done": true
+  },
+  "lilis_lucky_lures:recipes/fish_net": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 01:45:39 +0000"
+    },
+    "done": true
+  },
   "camping:recipes/tent_brown": {
     "criteria": {
       "has_brown_wool": "2025-08-17 01:12:35 +0000"
@@ -9211,9 +9224,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-17 01:42:28 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-08-17 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 01:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-17 01:42:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-17 01:42:28 +0000"
     },
     "done": true
   },
@@ -9235,15 +9272,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 01:42:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_venison": {
     "criteria": {
       "has_food": "2025-08-17 01:00:41 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-08-17 01:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-17 01:42:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 01:42:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_venison": {
     "criteria": {
       "has_food": "2025-08-17 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 01:45:39 +0000"
     },
     "done": true
   },
@@ -9256,6 +9323,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-08-17 01:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 01:45:39 +0000"
     },
     "done": true
   },

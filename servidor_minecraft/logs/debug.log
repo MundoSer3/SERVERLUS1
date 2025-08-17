@@ -22478,3 +22478,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [17Aug2025 01:30:42.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> wenos
 [17Aug2025 01:30:47.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> cuantos cubos
 [17Aug2025 01:30:53.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> todos
+[17Aug2025 01:32:41.164] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 01:32:41.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! 119.94806026289436,56.07840000152588,-758.7784512191919
+[17Aug2025 01:33:56.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Hot Stuff]
+[17Aug2025 01:34:55.110] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-136, y=6, z=864}
+[17Aug2025 01:34:55.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NatoRWR moved too quickly! -118.85402765240909,-55.92159999847412,757.0652403626201
+[17Aug2025 01:35:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> tome
+[17Aug2025 01:35:40.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 01:35:40.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 01:35:48.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ahi los tiene
+[17Aug2025 01:36:55.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> suficientes?
+[17Aug2025 01:37:01.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> si bby
+[17Aug2025 01:37:03.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> glacias
+[17Aug2025 01:37:08.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> pasame losvacios
+[17Aug2025 01:37:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> voy por mas
+[17Aug2025 01:37:19.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> no relajao
+[17Aug2025 01:37:25.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> eso va a bastar por mucho rato
+[17Aug2025 01:37:29.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> a este
+[17Aug2025 01:37:31.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> le falta
+[17Aug2025 01:37:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> no me deja ponerle pero lo recargo luego
+[17Aug2025 01:38:06.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> voy a papearme un wendigo
+[17Aug2025 01:38:13.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> mrk eso no suelta nada
+[17Aug2025 01:38:18.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> ni experiencia da
+[17Aug2025 01:38:21.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NergalAbyss> no vale la pena
+[17Aug2025 01:38:23.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ese mrk lleva mucho tiempo viviendo en paz
+[17Aug2025 01:38:42.404] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 01:40:39.603] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4311, y=4, z=-15692}
+[17Aug2025 01:40:40.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 01:40:40.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 01:40:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> [x:-4312, y:4, z:-15691, dim:twilightforest:twilight_forest]
+[17Aug2025 01:40:58.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> r
+[17Aug2025 01:41:12.761] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-526, y=63, z=-1949}
+[17Aug2025 01:41:22.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CupcakeSpace> [x:-516, y:64, z:-1958, dim:minecraft:overworld]
+[17Aug2025 01:43:13.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR was slain by Wendigo
+[17Aug2025 01:43:16.383] [Server thread/DEBUG] [twilightforest/]: Player NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043) respawned and received items held in storage
+[17Aug2025 01:43:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> aaaa
+[17Aug2025 01:43:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> ya
+[17Aug2025 01:43:23.454] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4311, y=4, z=-15692}
+[17Aug2025 01:43:49.196] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 01:44:05.552] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 01:45:40.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 01:45:40.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 01:45:47.649] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-526, y=63, z=-1949}
+[17Aug2025 01:46:07.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> me salio mago el we
+[17Aug2025 01:46:08.442] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4311, y=4, z=-15692}
+[17Aug2025 01:48:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NatoRWR> como un mardito volcan eruptando
+[17Aug2025 01:48:25.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss was shot by Skeleton
+[17Aug2025 01:48:29.886] [Server thread/DEBUG] [twilightforest/]: Player NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4) respawned and received items held in storage
+[17Aug2025 01:49:09.654] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 01:49:18.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NergalAbyss) moved wrongly! 0.4373996921299067
+[17Aug2025 01:49:18.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NergalAbyss) moved wrongly! 0.5028080786551279
+[17Aug2025 01:49:18.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of NergalAbyss) moved wrongly! 0.4517755945219762
+[17Aug2025 01:50:16.914] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-136, y=6, z=864}
+[17Aug2025 01:50:17.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -118.97082644030942,-55.92159999847412,757.471953114497
+[17Aug2025 01:50:20.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[17Aug2025 01:50:20.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[17Aug2025 01:50:40.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 01:50:40.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 01:51:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR bled to death
+[17Aug2025 01:51:58.056] [Server thread/DEBUG] [twilightforest/]: Player NatoRWR (9c46f1e1-e3c1-3dc8-8436-fc37ca7ae043) respawned and received items held in storage
+[17Aug2025 01:52:00.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[17Aug2025 01:52:00.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
