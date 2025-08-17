@@ -5920,6 +5920,12 @@
     },
     "done": true
   },
+  "candlelight:main/find_wild_crops": {
+    "criteria": {
+      "lettuce_seeds": "2025-08-17 00:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-16 23:36:46 +0000"
@@ -6424,15 +6430,33 @@
     },
     "done": true
   },
+  "veggiesdelight:main/cauliflower_master": {
+    "criteria": {
+      "B": "2025-08-17 00:36:06 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-08-17 00:23:21 +0000"
     },
     "done": true
   },
+  "candlelight:main/place_seeds": {
+    "criteria": {
+      "lettuce": "2025-08-17 00:31:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-08-16 23:37:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-08-17 00:31:58 +0000"
     },
     "done": true
   },
