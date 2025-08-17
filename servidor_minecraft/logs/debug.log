@@ -22418,3 +22418,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [17Aug2025 06:30:40.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Aug2025 06:35:40.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Aug2025 06:35:40.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 06:39:20.634] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17, y=62, z=108}
+[17Aug2025 06:40:09.428] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-136, y=6, z=864}
+[17Aug2025 06:40:40.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 06:40:40.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 06:42:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Not Today, Thank You]
+[17Aug2025 06:45:40.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Aug2025 06:45:40.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Aug2025 06:46:13.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Diamonds!]

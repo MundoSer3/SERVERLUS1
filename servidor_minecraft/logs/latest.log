@@ -3480,3 +3480,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_snt:cinder_dough'
 [17Aug2025 06:24:13.786] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-13, y=-59, z=10}
 [17Aug2025 06:24:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Alpine Paradise]
 [17Aug2025 06:25:44.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NatoRWR has made the advancement [Armor Alteration]
+[17Aug2025 06:42:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Not Today, Thank You]
+[17Aug2025 06:46:13.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: si has made the advancement [Diamonds!]

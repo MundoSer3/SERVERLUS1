@@ -4608,7 +4608,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-16 03:23:05 +0000",
+      "minecraft:spider": "2025-08-17 06:41:55 +0000",
       "minecraft:creeper": "2025-08-16 03:29:18 +0000",
+      "minecraft:witch": "2025-08-17 06:42:50 +0000",
       "minecraft:enderman": "2025-08-16 07:02:03 +0000",
       "minecraft:zombie": "2025-08-16 04:59:03 +0000"
     },
@@ -7579,6 +7581,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-17 06:42:32 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2025-08-17 06:06:27 +0000"
@@ -7618,6 +7626,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-08-17 06:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-17 06:41:55 +0000"
     },
     "done": true
   },
